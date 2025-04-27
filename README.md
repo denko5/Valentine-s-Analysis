@@ -1,3 +1,5 @@
+![Valentine's Analysis Banner](valentine's analysis.PNG)
+
 # Valentine's Analysis [Dummy Dataset]
 
 This repository contains the **Valentine's Analysis** project, which uses SQL queries to explore and analyze data on Valentine-related trends and behaviors. The project focuses on deriving insights from the dataset and presenting findings in a structured manner.
