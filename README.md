@@ -1,4 +1,4 @@
-![Valentine's Analysis Banner](valentine's analysis.PNG)
+![valentine's_analysis](valentine's_analysis.PNG)
 
 # Valentine's Analysis [Dummy Dataset]
 
