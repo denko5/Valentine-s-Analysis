@@ -1,0 +1,1001 @@
+purchase_id,date,item,price_usd,gender,age,searchItems,salesmade,totalsales,meetup_points
+1,1/6/2025,Chocolate,8.36,Female,50,flowers,1,8.36,Machakos Junction
+2,2/10/2025,Chocolate,12.31,Female,55,love note,4,49.24,Naivasha Market
+3,1/19/2025,Mug,5.48,Male,42,simple gift,5,27.4,Nakuru Center
+4,2/12/2025,Teddy Bear,5.78,Male,30,chocolate,4,23.12,Kisumu Downtown
+5,1/22/2025,Teddy Bear,6.1,Male,40,chocolate,4,24.4,Nakuru Center
+6,1/28/2025,Chocolate,6.19,Male,40,greeting card,3,18.57,Mombasa Docks
+7,1/9/2025,Cupcake,10.42,Male,51,simple gift,3,31.26,Mombasa Docks
+8,2/4/2025,Balloons,13.79,Female,59,chocolate,4,55.16,Thika Road Mall
+9,2/10/2025,Balloons,4.21,Female,22,small gift,5,21.05,Eldoret Bus Park
+10,1/23/2025,Flowers,10.08,Male,28,love note,3,30.24,Machakos Junction
+11,1/20/2025,Keychain,12.1,Female,28,small gift,4,48.4,Nairobi CBD
+12,1/10/2025,Keychain,4.84,Male,43,flowers,4,19.36,Thika Road Mall
+13,2/3/2025,Handmade Craft,9.16,Female,54,greeting card,5,45.8,Kisumu Downtown
+14,1/19/2025,Balloons,6.57,Male,58,chocolate,1,6.57,Nakuru Center
+15,1/28/2025,Greeting Card,13.33,Male,33,flowers,1,13.33,Nakuru Center
+16,1/22/2025,Cupcake,3.93,Female,54,chocolate,4,15.72,Nakuru Center
+17,1/1/2025,Greeting Card,1.95,Male,25,greeting card,2,3.9,Eldoret Bus Park
+18,2/11/2025,Flowers,10.38,Female,34,love note,2,20.76,Eldoret Bus Park
+19,2/9/2025,Chocolate,14.85,Male,58,balloons,4,59.4,Nakuru Center
+20,1/26/2025,Mug,9.32,Female,56,gift ideas,2,18.64,Machakos Junction
+21,2/8/2025,Perfume Sample,14.3,Male,22,cupcake,4,57.2,Thika Road Mall
+22,1/3/2025,Chocolate,8.58,Female,54,chocolate,5,42.9,Mombasa Docks
+23,1/17/2025,Handmade Craft,8.65,Male,18,balloons,5,43.25,Nairobi CBD
+24,1/6/2025,Cupcake,9.93,Female,55,affordable gift,2,19.86,Naivasha Market
+25,1/30/2025,Perfume Sample,7.42,Male,54,simple gift,5,37.1,Naivasha Market
+26,1/16/2025,Chocolate,4.83,Male,49,chocolate,3,14.49,Thika Road Mall
+27,2/10/2025,Chocolate,10.81,Male,26,chocolate,2,21.62,Nairobi CBD
+28,1/22/2025,Flowers,14.72,Male,52,greeting card,2,29.44,Nairobi CBD
+29,1/21/2025,Handmade Craft,9.06,Male,41,flowers,1,9.06,Naivasha Market
+30,2/1/2025,Chocolate,6.51,Female,20,affordable gift,2,13.02,Kisumu Downtown
+31,2/13/2025,Mug,11.53,Male,20,simple gift,2,23.06,Nairobi CBD
+32,2/12/2025,Flowers,13.29,Male,37,greeting card,3,39.87,Mombasa Docks
+33,1/18/2025,Chocolate,1.09,Male,34,flowers,3,3.27,Machakos Junction
+34,1/22/2025,Greeting Card,14.6,Male,60,flowers,3,43.8,Eldoret Bus Park
+35,2/4/2025,Greeting Card,4.73,Male,52,gift ideas,2,9.46,Machakos Junction
+36,1/18/2025,Teddy Bear,13.98,Male,38,balloons,1,13.98,Thika Road Mall
+37,1/29/2025,Teddy Bear,10.28,Male,27,simple gift,3,30.84,Kisumu Downtown
+38,1/18/2025,Teddy Bear,5.56,Female,49,simple gift,2,11.12,Machakos Junction
+39,2/13/2025,Cupcake,2.96,Male,37,small gift,3,8.88,Nairobi CBD
+40,1/26/2025,Teddy Bear,12.26,Male,24,greeting card,2,24.52,Mombasa Docks
+41,2/6/2025,Balloons,7.24,Male,34,balloons,2,14.48,Naivasha Market
+42,1/6/2025,Keychain,14.97,Male,34,simple gift,3,44.91,Thika Road Mall
+43,1/13/2025,Chocolate,12.33,Male,40,affordable gift,2,24.66,Eldoret Bus Park
+44,1/3/2025,Flowers,7.32,Female,60,greeting card,5,36.6,Nakuru Center
+45,1/29/2025,Mug,6.48,Male,53,simple gift,5,32.4,Kisumu Downtown
+46,1/20/2025,Greeting Card,11.13,Male,24,balloons,5,55.65,Mombasa Docks
+47,1/28/2025,Keychain,6.65,Female,45,balloons,1,6.65,Kisumu Downtown
+48,1/23/2025,Flowers,12.42,Male,53,love note,1,12.42,Machakos Junction
+49,2/13/2025,Teddy Bear,9.21,Female,31,small gift,4,36.84,Eldoret Bus Park
+50,1/11/2025,Greeting Card,10.24,Male,42,chocolate,2,20.48,Naivasha Market
+51,1/4/2025,Chocolate,3.42,Male,34,balloons,2,6.84,Machakos Junction
+52,1/2/2025,Teddy Bear,4.43,Male,41,flowers,1,4.43,Nairobi CBD
+53,1/22/2025,Perfume Sample,10.74,Male,57,chocolate,1,10.74,Thika Road Mall
+54,1/21/2025,Balloons,11.23,Female,42,love note,2,22.46,Kisumu Downtown
+55,2/2/2025,Cupcake,12.56,Male,22,affordable gift,3,37.68,Naivasha Market
+56,2/4/2025,Teddy Bear,10.87,Male,51,cupcake,2,21.74,Machakos Junction
+57,1/19/2025,Perfume Sample,2.5,Female,18,balloons,1,2.5,Nairobi CBD
+58,1/5/2025,Flowers,14.62,Male,27,simple gift,2,29.24,Mombasa Docks
+59,2/3/2025,Mug,12.18,Female,33,simple gift,3,36.54,Eldoret Bus Park
+60,1/5/2025,Keychain,7.82,Female,56,small gift,2,15.64,Nakuru Center
+61,1/21/2025,Chocolate,5.65,Male,46,balloons,3,16.95,Nakuru Center
+62,1/17/2025,Handmade Craft,11.59,Female,44,small gift,3,34.77,Kisumu Downtown
+63,1/11/2025,Handmade Craft,8.19,Male,38,gift ideas,3,24.57,Eldoret Bus Park
+64,1/4/2025,Perfume Sample,3.76,Male,46,flowers,1,3.76,Nairobi CBD
+65,2/4/2025,Teddy Bear,14.59,Male,52,love note,3,43.77,Mombasa Docks
+66,1/7/2025,Keychain,12.73,Male,41,love note,2,25.46,Thika Road Mall
+67,2/12/2025,Mug,14.47,Male,36,chocolate,2,28.94,Eldoret Bus Park
+68,2/8/2025,Greeting Card,8.79,Male,37,cupcake,4,35.16,Mombasa Docks
+69,2/2/2025,Balloons,14.58,Female,56,flowers,2,29.16,Thika Road Mall
+70,2/5/2025,Cupcake,5.52,Male,48,small gift,4,22.08,Eldoret Bus Park
+71,1/13/2025,Keychain,5.28,Male,21,balloons,5,26.4,Mombasa Docks
+72,1/24/2025,Chocolate,2.67,Male,32,balloons,4,10.68,Mombasa Docks
+73,1/27/2025,Keychain,14.53,Female,32,affordable gift,5,72.65,Nakuru Center
+74,1/18/2025,Chocolate,2.61,Female,58,balloons,1,2.61,Kisumu Downtown
+75,1/12/2025,Handmade Craft,6.2,Female,41,affordable gift,3,18.6,Nairobi CBD
+76,1/13/2025,Mug,4.59,Female,30,balloons,1,4.59,Nakuru Center
+77,1/14/2025,Handmade Craft,8.82,Male,34,gift ideas,5,44.1,Thika Road Mall
+78,1/5/2025,Perfume Sample,7.89,Female,32,simple gift,2,15.78,Nakuru Center
+79,1/1/2025,Handmade Craft,3.76,Male,18,cupcake,4,15.04,Nakuru Center
+80,1/6/2025,Mug,10,Female,33,simple gift,3,30,Mombasa Docks
+81,1/29/2025,Handmade Craft,14.45,Male,41,small gift,1,14.45,Machakos Junction
+82,1/18/2025,Teddy Bear,1.27,Female,43,simple gift,5,6.35,Kisumu Downtown
+83,2/2/2025,Cupcake,4.93,Female,45,affordable gift,1,4.93,Machakos Junction
+84,2/3/2025,Keychain,8.93,Male,51,flowers,5,44.65,Kisumu Downtown
+85,1/25/2025,Keychain,11.47,Male,30,cupcake,2,22.94,Mombasa Docks
+86,2/12/2025,Balloons,6.83,Male,30,simple gift,2,13.66,Nakuru Center
+87,1/27/2025,Mug,8.81,Male,23,cupcake,1,8.81,Thika Road Mall
+88,1/15/2025,Cupcake,2.56,Male,57,greeting card,3,7.68,Naivasha Market
+89,1/11/2025,Cupcake,12.79,Female,41,small gift,3,38.37,Naivasha Market
+90,2/5/2025,Teddy Bear,3.35,Male,60,simple gift,2,6.7,Nakuru Center
+91,1/6/2025,Balloons,4.32,Female,31,love note,5,21.6,Machakos Junction
+92,1/1/2025,Flowers,14.3,Female,22,greeting card,3,42.9,Machakos Junction
+93,2/9/2025,Cupcake,4.55,Male,25,cupcake,5,22.75,Naivasha Market
+94,2/12/2025,Chocolate,3.58,Male,33,love note,1,3.58,Nakuru Center
+95,1/7/2025,Greeting Card,9.36,Female,55,greeting card,1,9.36,Nairobi CBD
+96,1/7/2025,Keychain,12.06,Female,32,love note,4,48.24,Kisumu Downtown
+97,1/14/2025,Chocolate,8.96,Male,53,gift ideas,3,26.88,Naivasha Market
+98,2/11/2025,Handmade Craft,1.44,Male,36,chocolate,5,7.2,Mombasa Docks
+99,1/23/2025,Keychain,14.08,Female,26,flowers,3,42.24,Thika Road Mall
+100,1/31/2025,Chocolate,8.02,Female,18,balloons,2,16.04,Nakuru Center
+101,1/26/2025,Keychain,3.62,Female,47,affordable gift,4,14.48,Eldoret Bus Park
+102,2/5/2025,Mug,9.92,Male,59,balloons,2,19.84,Naivasha Market
+103,2/3/2025,Handmade Craft,7.93,Female,22,balloons,1,7.93,Nairobi CBD
+104,1/2/2025,Chocolate,9.72,Female,37,affordable gift,5,48.6,Kisumu Downtown
+105,2/14/2025,Chocolate,7.56,Male,34,cupcake,2,15.12,Nakuru Center
+106,2/1/2025,Chocolate,2.93,Female,54,chocolate,2,5.86,Mombasa Docks
+107,1/5/2025,Keychain,13.67,Female,41,affordable gift,4,54.68,Thika Road Mall
+108,1/17/2025,Flowers,12.23,Male,19,cupcake,4,48.92,Naivasha Market
+109,1/5/2025,Teddy Bear,3.95,Female,53,chocolate,3,11.85,Naivasha Market
+110,2/9/2025,Greeting Card,3.13,Male,41,affordable gift,5,15.65,Nairobi CBD
+111,1/9/2025,Mug,9.29,Female,33,chocolate,2,18.58,Thika Road Mall
+112,1/8/2025,Perfume Sample,5.57,Female,30,gift ideas,5,27.85,Thika Road Mall
+113,1/5/2025,Cupcake,10.44,Male,32,chocolate,5,52.2,Eldoret Bus Park
+114,2/11/2025,Greeting Card,2.74,Female,38,simple gift,5,13.7,Nairobi CBD
+115,2/8/2025,Balloons,6.59,Female,59,chocolate,1,6.59,Mombasa Docks
+116,1/3/2025,Balloons,1.31,Female,30,chocolate,1,1.31,Mombasa Docks
+117,1/7/2025,Flowers,6.55,Female,38,affordable gift,4,26.2,Naivasha Market
+118,2/10/2025,Handmade Craft,3.51,Male,26,gift ideas,3,10.53,Eldoret Bus Park
+119,1/26/2025,Perfume Sample,6.71,Male,31,chocolate,3,20.13,Naivasha Market
+120,1/14/2025,Flowers,5.92,Female,24,cupcake,1,5.92,Naivasha Market
+121,1/24/2025,Flowers,10.16,Male,49,simple gift,1,10.16,Eldoret Bus Park
+122,1/24/2025,Teddy Bear,2.11,Male,31,simple gift,4,8.44,Machakos Junction
+123,2/11/2025,Balloons,3.14,Female,51,gift ideas,4,12.56,Thika Road Mall
+124,1/16/2025,Handmade Craft,2.57,Female,44,affordable gift,4,10.28,Eldoret Bus Park
+125,1/30/2025,Perfume Sample,7.9,Male,47,simple gift,1,7.9,Mombasa Docks
+126,1/30/2025,Keychain,1.59,Male,28,gift ideas,4,6.36,Nairobi CBD
+127,2/10/2025,Keychain,7.92,Female,60,balloons,5,39.6,Nairobi CBD
+128,1/9/2025,Flowers,8.26,Female,41,gift ideas,2,16.52,Kisumu Downtown
+129,1/19/2025,Balloons,4.13,Female,22,affordable gift,5,20.65,Eldoret Bus Park
+130,1/27/2025,Keychain,7.58,Male,31,affordable gift,3,22.74,Thika Road Mall
+131,1/31/2025,Flowers,14.87,Male,18,greeting card,2,29.74,Thika Road Mall
+132,1/31/2025,Chocolate,8.23,Male,21,balloons,1,8.23,Nairobi CBD
+133,1/28/2025,Cupcake,7.18,Male,23,chocolate,5,35.9,Mombasa Docks
+134,1/2/2025,Mug,5.52,Male,53,simple gift,1,5.52,Naivasha Market
+135,1/5/2025,Chocolate,7.34,Female,40,affordable gift,3,22.02,Nakuru Center
+136,1/21/2025,Mug,6.16,Female,24,cupcake,3,18.48,Naivasha Market
+137,1/19/2025,Teddy Bear,11.11,Male,50,affordable gift,1,11.11,Naivasha Market
+138,2/10/2025,Perfume Sample,9.8,Male,42,affordable gift,5,49,Mombasa Docks
+139,2/2/2025,Keychain,13.88,Male,24,greeting card,5,69.4,Nakuru Center
+140,2/12/2025,Teddy Bear,4.95,Female,38,greeting card,3,14.85,Mombasa Docks
+141,1/25/2025,Cupcake,4.97,Female,43,affordable gift,5,24.85,Mombasa Docks
+142,1/29/2025,Balloons,11.45,Female,26,gift ideas,2,22.9,Nairobi CBD
+143,1/5/2025,Balloons,7.59,Female,21,love note,5,37.95,Machakos Junction
+144,1/8/2025,Perfume Sample,1.66,Female,53,greeting card,1,1.66,Nairobi CBD
+145,1/11/2025,Mug,3.63,Male,50,chocolate,3,10.89,Mombasa Docks
+146,1/27/2025,Flowers,7.82,Female,55,balloons,4,31.28,Naivasha Market
+147,2/11/2025,Balloons,13.65,Male,50,balloons,4,54.6,Thika Road Mall
+148,1/14/2025,Cupcake,8.53,Female,36,flowers,2,17.06,Naivasha Market
+149,1/11/2025,Mug,3.85,Male,43,cupcake,1,3.85,Thika Road Mall
+150,1/13/2025,Mug,4.97,Female,22,gift ideas,4,19.88,Nairobi CBD
+151,1/19/2025,Chocolate,1.04,Male,28,gift ideas,1,1.04,Naivasha Market
+152,1/3/2025,Perfume Sample,5.93,Female,52,affordable gift,1,5.93,Thika Road Mall
+153,1/18/2025,Greeting Card,1.16,Male,57,small gift,3,3.48,Nairobi CBD
+154,1/22/2025,Handmade Craft,10.88,Female,52,cupcake,4,43.52,Naivasha Market
+155,2/2/2025,Teddy Bear,3.74,Female,27,love note,3,11.22,Nairobi CBD
+156,1/20/2025,Greeting Card,6.45,Male,29,affordable gift,1,6.45,Machakos Junction
+157,2/4/2025,Flowers,9.13,Female,44,greeting card,5,45.65,Machakos Junction
+158,1/6/2025,Flowers,10.15,Male,58,flowers,4,40.6,Naivasha Market
+159,2/11/2025,Chocolate,4.49,Male,26,chocolate,3,13.47,Machakos Junction
+160,2/4/2025,Perfume Sample,3.49,Male,58,affordable gift,2,6.98,Mombasa Docks
+161,1/10/2025,Cupcake,8.39,Male,41,flowers,2,16.78,Machakos Junction
+162,1/22/2025,Perfume Sample,1.7,Female,47,chocolate,2,3.4,Kisumu Downtown
+163,1/7/2025,Cupcake,6.97,Female,51,love note,2,13.94,Kisumu Downtown
+164,2/6/2025,Cupcake,11.72,Female,26,balloons,4,46.88,Kisumu Downtown
+165,1/21/2025,Mug,6.52,Male,54,affordable gift,2,13.04,Nairobi CBD
+166,2/8/2025,Flowers,1.08,Female,25,love note,4,4.32,Mombasa Docks
+167,1/31/2025,Flowers,10.26,Female,21,greeting card,3,30.78,Nakuru Center
+168,2/12/2025,Handmade Craft,9.81,Female,29,affordable gift,5,49.05,Eldoret Bus Park
+169,2/7/2025,Flowers,12.78,Female,42,gift ideas,4,51.12,Mombasa Docks
+170,2/12/2025,Handmade Craft,9.89,Female,44,flowers,5,49.45,Eldoret Bus Park
+171,2/7/2025,Perfume Sample,2.2,Male,27,flowers,3,6.6,Nairobi CBD
+172,1/17/2025,Keychain,10.4,Male,53,affordable gift,1,10.4,Mombasa Docks
+173,1/8/2025,Perfume Sample,7.03,Female,24,affordable gift,3,21.09,Nairobi CBD
+174,2/3/2025,Keychain,8.9,Male,25,greeting card,2,17.8,Thika Road Mall
+175,1/27/2025,Greeting Card,5.5,Female,21,balloons,5,27.5,Naivasha Market
+176,1/29/2025,Cupcake,5.2,Male,43,love note,1,5.2,Nairobi CBD
+177,2/14/2025,Mug,13.37,Male,30,love note,2,26.74,Thika Road Mall
+178,1/19/2025,Balloons,4.98,Female,54,balloons,5,24.9,Nakuru Center
+179,1/5/2025,Handmade Craft,2.27,Female,47,balloons,3,6.81,Thika Road Mall
+180,1/13/2025,Mug,12.21,Male,44,small gift,3,36.63,Machakos Junction
+181,2/13/2025,Perfume Sample,13.11,Female,32,small gift,2,26.22,Naivasha Market
+182,1/6/2025,Keychain,14.7,Male,19,simple gift,4,58.8,Nakuru Center
+183,1/3/2025,Mug,2.11,Male,55,chocolate,3,6.33,Nairobi CBD
+184,1/20/2025,Perfume Sample,1.71,Male,57,love note,5,8.55,Naivasha Market
+185,1/7/2025,Mug,12.24,Male,48,affordable gift,1,12.24,Kisumu Downtown
+186,1/21/2025,Cupcake,4.42,Male,52,balloons,1,4.42,Nairobi CBD
+187,1/11/2025,Greeting Card,8.79,Female,37,small gift,4,35.16,Nairobi CBD
+188,1/2/2025,Flowers,1.73,Male,26,affordable gift,1,1.73,Machakos Junction
+189,1/17/2025,Cupcake,8.38,Male,42,simple gift,2,16.76,Machakos Junction
+190,2/11/2025,Chocolate,13.45,Male,20,affordable gift,3,40.35,Kisumu Downtown
+191,2/8/2025,Perfume Sample,3.07,Female,35,flowers,1,3.07,Nairobi CBD
+192,1/18/2025,Mug,13.65,Female,60,cupcake,4,54.6,Naivasha Market
+193,1/24/2025,Handmade Craft,9.59,Male,19,small gift,5,47.95,Mombasa Docks
+194,1/27/2025,Cupcake,2.25,Female,24,chocolate,5,11.25,Nakuru Center
+195,1/16/2025,Cupcake,8.1,Female,42,small gift,1,8.1,Nairobi CBD
+196,1/8/2025,Flowers,1.94,Female,21,balloons,3,5.82,Naivasha Market
+197,1/19/2025,Flowers,6.57,Female,25,greeting card,4,26.28,Machakos Junction
+198,1/18/2025,Perfume Sample,7.39,Male,45,chocolate,3,22.17,Mombasa Docks
+199,1/25/2025,Mug,5.87,Male,56,affordable gift,1,5.87,Eldoret Bus Park
+200,1/30/2025,Perfume Sample,9.22,Female,45,affordable gift,1,9.22,Mombasa Docks
+201,1/20/2025,Greeting Card,4.85,Male,49,love note,4,19.4,Eldoret Bus Park
+202,2/8/2025,Mug,8.21,Female,41,greeting card,5,41.05,Nairobi CBD
+203,1/3/2025,Flowers,2.65,Female,24,gift ideas,5,13.25,Kisumu Downtown
+204,1/13/2025,Handmade Craft,8.13,Male,46,small gift,1,8.13,Machakos Junction
+205,1/16/2025,Flowers,2.22,Male,21,simple gift,4,8.88,Naivasha Market
+206,1/14/2025,Perfume Sample,1.95,Male,32,affordable gift,4,7.8,Eldoret Bus Park
+207,2/2/2025,Keychain,13.73,Female,35,love note,2,27.46,Thika Road Mall
+208,1/1/2025,Greeting Card,9.86,Female,55,small gift,5,49.3,Naivasha Market
+209,2/9/2025,Keychain,11.35,Female,44,chocolate,2,22.7,Nakuru Center
+210,2/11/2025,Flowers,5.12,Male,20,flowers,5,25.6,Nairobi CBD
+211,2/10/2025,Chocolate,14.25,Male,55,cupcake,5,71.25,Mombasa Docks
+212,1/5/2025,Cupcake,4.72,Male,57,chocolate,2,9.44,Thika Road Mall
+213,1/5/2025,Flowers,2.02,Female,37,flowers,2,4.04,Mombasa Docks
+214,1/11/2025,Perfume Sample,9.1,Male,36,love note,5,45.5,Thika Road Mall
+215,1/1/2025,Teddy Bear,3.66,Male,60,small gift,4,14.64,Naivasha Market
+216,1/17/2025,Handmade Craft,13.32,Male,60,greeting card,2,26.64,Mombasa Docks
+217,2/2/2025,Perfume Sample,2.11,Male,52,affordable gift,2,4.22,Kisumu Downtown
+218,1/9/2025,Perfume Sample,5.13,Female,23,simple gift,5,25.65,Nairobi CBD
+219,1/26/2025,Perfume Sample,11.62,Male,20,balloons,1,11.62,Naivasha Market
+220,1/18/2025,Perfume Sample,6.16,Female,31,small gift,2,12.32,Machakos Junction
+221,2/4/2025,Mug,1.99,Male,52,love note,4,7.96,Machakos Junction
+222,1/11/2025,Keychain,14.65,Male,18,balloons,5,73.25,Thika Road Mall
+223,2/13/2025,Balloons,9.84,Female,53,chocolate,3,29.52,Kisumu Downtown
+224,1/28/2025,Handmade Craft,12.49,Male,21,small gift,2,24.98,Nairobi CBD
+225,1/8/2025,Flowers,8.05,Female,56,small gift,5,40.25,Mombasa Docks
+226,1/15/2025,Perfume Sample,8.29,Female,25,flowers,3,24.87,Nakuru Center
+227,1/28/2025,Balloons,12,Female,19,simple gift,5,60,Kisumu Downtown
+228,1/1/2025,Mug,1.2,Male,54,chocolate,5,6,Thika Road Mall
+229,1/2/2025,Greeting Card,11.4,Male,31,balloons,5,57,Mombasa Docks
+230,1/12/2025,Cupcake,9.73,Male,41,small gift,3,29.19,Thika Road Mall
+231,1/16/2025,Mug,12.51,Male,31,balloons,2,25.02,Machakos Junction
+232,1/9/2025,Greeting Card,6.76,Female,39,small gift,5,33.8,Nairobi CBD
+233,1/19/2025,Greeting Card,6.94,Male,25,love note,1,6.94,Nairobi CBD
+234,2/4/2025,Mug,13.94,Male,28,balloons,2,27.88,Nairobi CBD
+235,1/14/2025,Chocolate,11.06,Male,51,greeting card,2,22.12,Nairobi CBD
+236,2/4/2025,Perfume Sample,7.44,Male,38,gift ideas,3,22.32,Nakuru Center
+237,1/15/2025,Keychain,12.91,Male,52,cupcake,5,64.55,Thika Road Mall
+238,1/19/2025,Balloons,7.6,Female,23,chocolate,1,7.6,Nairobi CBD
+239,1/12/2025,Mug,2.12,Female,23,love note,3,6.36,Nakuru Center
+240,1/18/2025,Teddy Bear,13.51,Male,60,affordable gift,3,40.53,Mombasa Docks
+241,2/10/2025,Chocolate,2.78,Female,27,small gift,2,5.56,Nairobi CBD
+242,1/21/2025,Flowers,13.36,Female,35,flowers,1,13.36,Thika Road Mall
+243,1/29/2025,Chocolate,13.67,Male,47,cupcake,4,54.68,Eldoret Bus Park
+244,1/7/2025,Teddy Bear,10.58,Female,53,gift ideas,1,10.58,Mombasa Docks
+245,2/13/2025,Mug,4.99,Female,25,gift ideas,4,19.96,Naivasha Market
+246,1/28/2025,Keychain,2.12,Female,31,affordable gift,2,4.24,Nairobi CBD
+247,2/2/2025,Cupcake,7.6,Female,58,simple gift,3,22.8,Machakos Junction
+248,1/14/2025,Mug,7.59,Male,40,small gift,3,22.77,Kisumu Downtown
+249,1/29/2025,Greeting Card,1.94,Female,19,greeting card,2,3.88,Nairobi CBD
+250,1/17/2025,Cupcake,6.6,Male,45,balloons,2,13.2,Mombasa Docks
+251,1/10/2025,Chocolate,9.1,Female,29,cupcake,3,27.3,Thika Road Mall
+252,2/10/2025,Mug,4.11,Male,19,simple gift,2,8.22,Nairobi CBD
+253,2/7/2025,Mug,7.39,Female,30,simple gift,3,22.17,Eldoret Bus Park
+254,1/5/2025,Chocolate,12.16,Female,37,cupcake,1,12.16,Nairobi CBD
+255,1/25/2025,Cupcake,13.24,Female,38,chocolate,5,66.2,Mombasa Docks
+256,2/12/2025,Keychain,4.93,Male,18,gift ideas,3,14.79,Eldoret Bus Park
+257,1/6/2025,Cupcake,8.82,Male,60,chocolate,3,26.46,Nakuru Center
+258,1/1/2025,Greeting Card,6.45,Male,38,cupcake,3,19.35,Thika Road Mall
+259,1/26/2025,Keychain,14.01,Male,58,affordable gift,2,28.02,Nairobi CBD
+260,1/22/2025,Cupcake,4.66,Male,19,small gift,2,9.32,Nairobi CBD
+261,2/9/2025,Mug,4.19,Male,50,small gift,4,16.76,Kisumu Downtown
+262,1/27/2025,Mug,10.2,Female,28,gift ideas,4,40.8,Machakos Junction
+263,2/10/2025,Mug,8.58,Male,34,cupcake,4,34.32,Nakuru Center
+264,1/27/2025,Handmade Craft,6.4,Male,58,greeting card,1,6.4,Eldoret Bus Park
+265,2/11/2025,Perfume Sample,8.97,Male,42,gift ideas,4,35.88,Nairobi CBD
+266,1/19/2025,Keychain,10.73,Male,40,balloons,5,53.65,Naivasha Market
+267,1/21/2025,Chocolate,5.68,Female,50,flowers,2,11.36,Kisumu Downtown
+268,1/24/2025,Greeting Card,7.99,Male,37,gift ideas,4,31.96,Eldoret Bus Park
+269,2/10/2025,Chocolate,9.96,Female,53,flowers,5,49.8,Machakos Junction
+270,1/8/2025,Perfume Sample,8,Female,47,greeting card,4,32,Nairobi CBD
+271,1/10/2025,Balloons,10.74,Male,36,chocolate,4,42.96,Mombasa Docks
+272,2/8/2025,Keychain,14.59,Male,20,chocolate,4,58.36,Nakuru Center
+273,1/23/2025,Cupcake,14.71,Female,52,gift ideas,2,29.42,Nakuru Center
+274,1/13/2025,Greeting Card,3.6,Male,43,cupcake,5,18,Nakuru Center
+275,2/8/2025,Cupcake,13.98,Female,44,chocolate,5,69.9,Thika Road Mall
+276,2/1/2025,Chocolate,4.1,Female,36,gift ideas,5,20.5,Nairobi CBD
+277,2/12/2025,Balloons,7.25,Male,48,simple gift,3,21.75,Mombasa Docks
+278,1/19/2025,Chocolate,4.71,Male,18,simple gift,2,9.42,Machakos Junction
+279,2/13/2025,Mug,1.87,Male,50,affordable gift,2,3.74,Nairobi CBD
+280,2/4/2025,Greeting Card,10.51,Female,28,love note,1,10.51,Mombasa Docks
+281,1/7/2025,Chocolate,1.41,Male,40,greeting card,1,1.41,Machakos Junction
+282,1/4/2025,Cupcake,8.76,Female,49,cupcake,3,26.28,Eldoret Bus Park
+283,2/14/2025,Greeting Card,7.03,Female,54,greeting card,5,35.15,Kisumu Downtown
+284,1/19/2025,Balloons,11.43,Male,27,small gift,2,22.86,Mombasa Docks
+285,2/10/2025,Mug,10.06,Female,21,balloons,3,30.18,Thika Road Mall
+286,1/6/2025,Greeting Card,7.63,Female,36,balloons,1,7.63,Machakos Junction
+287,1/11/2025,Flowers,12.77,Female,39,greeting card,5,63.85,Nairobi CBD
+288,1/24/2025,Flowers,10.38,Male,29,balloons,4,41.52,Machakos Junction
+289,2/1/2025,Cupcake,5.21,Male,59,gift ideas,4,20.84,Nakuru Center
+290,2/13/2025,Mug,11.56,Male,44,cupcake,2,23.12,Machakos Junction
+291,1/11/2025,Mug,11.45,Male,28,love note,1,11.45,Naivasha Market
+292,1/26/2025,Balloons,3.01,Male,58,love note,5,15.05,Naivasha Market
+293,1/7/2025,Flowers,9.28,Male,22,greeting card,4,37.12,Kisumu Downtown
+294,2/6/2025,Balloons,12.29,Female,39,love note,1,12.29,Machakos Junction
+295,1/10/2025,Mug,6.89,Female,44,chocolate,1,6.89,Mombasa Docks
+296,2/11/2025,Greeting Card,12.93,Female,35,simple gift,4,51.72,Kisumu Downtown
+297,1/1/2025,Mug,3.03,Male,40,gift ideas,2,6.06,Nakuru Center
+298,1/5/2025,Handmade Craft,2.66,Female,30,balloons,4,10.64,Machakos Junction
+299,1/6/2025,Mug,3.02,Female,20,flowers,4,12.08,Eldoret Bus Park
+300,1/5/2025,Teddy Bear,12.51,Male,56,greeting card,5,62.55,Nakuru Center
+301,2/8/2025,Cupcake,10.19,Male,21,balloons,5,50.95,Thika Road Mall
+302,1/29/2025,Perfume Sample,11.67,Male,35,balloons,4,46.68,Thika Road Mall
+303,1/30/2025,Handmade Craft,14.86,Female,44,gift ideas,5,74.3,Naivasha Market
+304,1/28/2025,Teddy Bear,6.19,Male,18,chocolate,2,12.38,Machakos Junction
+305,1/10/2025,Balloons,5.43,Female,55,greeting card,4,21.72,Kisumu Downtown
+306,2/5/2025,Mug,2.96,Male,21,balloons,3,8.88,Nairobi CBD
+307,1/3/2025,Perfume Sample,2.91,Male,50,affordable gift,2,5.82,Nakuru Center
+308,1/12/2025,Teddy Bear,1.08,Female,25,cupcake,5,5.4,Thika Road Mall
+309,1/31/2025,Cupcake,5.06,Male,40,balloons,1,5.06,Mombasa Docks
+310,1/28/2025,Handmade Craft,12.34,Female,33,love note,2,24.68,Thika Road Mall
+311,1/22/2025,Keychain,13.55,Male,30,greeting card,4,54.2,Machakos Junction
+312,1/21/2025,Mug,9.78,Male,40,small gift,5,48.9,Naivasha Market
+313,2/10/2025,Perfume Sample,14.27,Male,31,affordable gift,1,14.27,Kisumu Downtown
+314,1/28/2025,Keychain,5.68,Male,34,simple gift,4,22.72,Nakuru Center
+315,1/6/2025,Balloons,10.72,Female,58,love note,3,32.16,Eldoret Bus Park
+316,1/11/2025,Mug,12.33,Male,28,love note,1,12.33,Kisumu Downtown
+317,2/6/2025,Teddy Bear,5.42,Male,38,balloons,5,27.1,Nakuru Center
+318,1/18/2025,Teddy Bear,14.5,Female,18,balloons,1,14.5,Kisumu Downtown
+319,1/26/2025,Cupcake,2.98,Female,49,chocolate,3,8.94,Kisumu Downtown
+320,1/27/2025,Handmade Craft,14.7,Male,52,greeting card,5,73.5,Kisumu Downtown
+321,1/26/2025,Chocolate,1.93,Male,44,gift ideas,3,5.79,Thika Road Mall
+322,2/6/2025,Greeting Card,12.69,Female,32,greeting card,1,12.69,Thika Road Mall
+323,2/8/2025,Perfume Sample,12.18,Male,39,small gift,2,24.36,Eldoret Bus Park
+324,1/11/2025,Flowers,13.31,Female,36,greeting card,3,39.93,Naivasha Market
+325,1/23/2025,Teddy Bear,7.64,Female,18,greeting card,3,22.92,Naivasha Market
+326,1/1/2025,Greeting Card,10.93,Male,25,greeting card,5,54.65,Thika Road Mall
+327,1/28/2025,Cupcake,8.51,Male,20,gift ideas,5,42.55,Kisumu Downtown
+328,2/2/2025,Flowers,12.43,Female,59,small gift,3,37.29,Kisumu Downtown
+329,1/11/2025,Perfume Sample,3.16,Male,41,simple gift,1,3.16,Kisumu Downtown
+330,1/25/2025,Cupcake,12.5,Male,60,love note,3,37.5,Mombasa Docks
+331,2/13/2025,Keychain,6.15,Female,58,small gift,2,12.3,Eldoret Bus Park
+332,1/27/2025,Mug,13.14,Female,32,flowers,4,52.56,Naivasha Market
+333,1/16/2025,Chocolate,4.7,Female,37,flowers,1,4.7,Thika Road Mall
+334,2/11/2025,Chocolate,8.95,Male,30,balloons,1,8.95,Machakos Junction
+335,2/9/2025,Handmade Craft,10.47,Female,32,flowers,1,10.47,Naivasha Market
+336,1/5/2025,Balloons,14.09,Male,28,balloons,4,56.36,Naivasha Market
+337,2/10/2025,Chocolate,4.89,Male,25,greeting card,1,4.89,Kisumu Downtown
+338,2/6/2025,Mug,11.61,Female,53,love note,3,34.83,Machakos Junction
+339,2/8/2025,Perfume Sample,14.26,Male,35,affordable gift,5,71.3,Eldoret Bus Park
+340,2/11/2025,Chocolate,1.41,Female,27,chocolate,2,2.82,Thika Road Mall
+341,2/12/2025,Flowers,13.71,Female,38,chocolate,1,13.71,Eldoret Bus Park
+342,1/13/2025,Keychain,13.47,Male,41,flowers,2,26.94,Nairobi CBD
+343,1/2/2025,Keychain,13.61,Female,42,greeting card,1,13.61,Kisumu Downtown
+344,2/7/2025,Chocolate,8.29,Female,36,affordable gift,2,16.58,Kisumu Downtown
+345,1/25/2025,Chocolate,2.69,Female,27,balloons,2,5.38,Naivasha Market
+346,1/2/2025,Teddy Bear,10.9,Male,40,balloons,2,21.8,Nairobi CBD
+347,1/27/2025,Mug,7.73,Male,20,chocolate,3,23.19,Nairobi CBD
+348,1/31/2025,Keychain,7,Male,47,flowers,3,21,Naivasha Market
+349,1/21/2025,Teddy Bear,12.14,Male,54,cupcake,3,36.42,Nairobi CBD
+350,1/27/2025,Mug,10.72,Male,58,flowers,2,21.44,Nairobi CBD
+351,2/2/2025,Cupcake,9.47,Male,39,flowers,1,9.47,Mombasa Docks
+352,1/23/2025,Mug,13.15,Male,51,flowers,3,39.45,Kisumu Downtown
+353,1/12/2025,Balloons,11.63,Male,32,greeting card,2,23.26,Naivasha Market
+354,2/14/2025,Cupcake,9.75,Male,54,cupcake,3,29.25,Nakuru Center
+355,1/4/2025,Keychain,8.41,Male,33,cupcake,5,42.05,Machakos Junction
+356,1/12/2025,Balloons,14.01,Male,46,greeting card,1,14.01,Mombasa Docks
+357,1/7/2025,Perfume Sample,11.84,Female,49,small gift,1,11.84,Thika Road Mall
+358,1/4/2025,Handmade Craft,13.19,Male,50,cupcake,3,39.57,Kisumu Downtown
+359,1/25/2025,Chocolate,6.06,Male,33,affordable gift,1,6.06,Nakuru Center
+360,2/12/2025,Perfume Sample,3.51,Male,52,cupcake,1,3.51,Nakuru Center
+361,2/5/2025,Mug,3.78,Female,34,affordable gift,4,15.12,Kisumu Downtown
+362,1/6/2025,Mug,1.24,Male,36,chocolate,1,1.24,Nairobi CBD
+363,1/29/2025,Chocolate,3.69,Male,45,small gift,2,7.38,Nakuru Center
+364,1/31/2025,Chocolate,8.69,Female,23,love note,2,17.38,Nairobi CBD
+365,2/11/2025,Cupcake,10.14,Male,26,gift ideas,5,50.7,Thika Road Mall
+366,1/18/2025,Flowers,9.35,Female,30,cupcake,4,37.4,Nairobi CBD
+367,1/25/2025,Perfume Sample,13.96,Female,33,small gift,5,69.8,Mombasa Docks
+368,1/31/2025,Keychain,6.63,Male,48,simple gift,3,19.89,Thika Road Mall
+369,1/30/2025,Handmade Craft,13.52,Female,57,simple gift,2,27.04,Thika Road Mall
+370,1/16/2025,Balloons,6.18,Male,20,greeting card,1,6.18,Nairobi CBD
+371,1/1/2025,Cupcake,8.31,Male,33,love note,4,33.24,Eldoret Bus Park
+372,1/18/2025,Mug,6.52,Female,57,love note,2,13.04,Naivasha Market
+373,2/2/2025,Flowers,10.25,Male,34,flowers,5,51.25,Naivasha Market
+374,1/31/2025,Balloons,4.95,Female,47,affordable gift,5,24.75,Kisumu Downtown
+375,2/9/2025,Keychain,11.31,Female,33,chocolate,1,11.31,Thika Road Mall
+376,1/3/2025,Mug,14.65,Female,45,greeting card,5,73.25,Thika Road Mall
+377,1/18/2025,Keychain,9.1,Male,27,flowers,3,27.3,Machakos Junction
+378,1/21/2025,Teddy Bear,13.93,Female,18,cupcake,1,13.93,Machakos Junction
+379,1/5/2025,Keychain,11.38,Male,56,love note,4,45.52,Naivasha Market
+380,1/24/2025,Cupcake,14.52,Female,51,gift ideas,5,72.6,Naivasha Market
+381,1/30/2025,Handmade Craft,7.77,Male,18,balloons,3,23.31,Machakos Junction
+382,1/19/2025,Mug,7.1,Female,48,flowers,5,35.5,Nakuru Center
+383,1/14/2025,Teddy Bear,2.97,Male,59,affordable gift,1,2.97,Thika Road Mall
+384,2/1/2025,Perfume Sample,8.74,Female,43,affordable gift,2,17.48,Kisumu Downtown
+385,1/29/2025,Flowers,7.74,Male,23,simple gift,2,15.48,Nakuru Center
+386,2/4/2025,Chocolate,7.22,Male,43,chocolate,2,14.44,Kisumu Downtown
+387,1/25/2025,Chocolate,12.18,Male,44,greeting card,2,24.36,Thika Road Mall
+388,2/5/2025,Keychain,8.47,Male,27,chocolate,5,42.35,Nairobi CBD
+389,2/13/2025,Flowers,14.02,Female,50,chocolate,2,28.04,Naivasha Market
+390,1/10/2025,Flowers,7.54,Female,42,balloons,3,22.62,Eldoret Bus Park
+391,1/29/2025,Cupcake,12.79,Female,25,simple gift,5,63.95,Machakos Junction
+392,1/22/2025,Perfume Sample,9.3,Female,22,gift ideas,3,27.9,Machakos Junction
+393,1/23/2025,Greeting Card,4.7,Male,46,cupcake,2,9.4,Naivasha Market
+394,2/9/2025,Perfume Sample,13.32,Female,34,simple gift,2,26.64,Nakuru Center
+395,1/27/2025,Perfume Sample,4.42,Male,57,small gift,5,22.1,Nairobi CBD
+396,1/25/2025,Balloons,4.42,Male,34,balloons,2,8.84,Machakos Junction
+397,1/28/2025,Greeting Card,8.29,Female,37,cupcake,4,33.16,Machakos Junction
+398,1/21/2025,Flowers,4.09,Male,46,simple gift,1,4.09,Nakuru Center
+399,2/14/2025,Keychain,1.11,Female,28,greeting card,1,1.11,Nairobi CBD
+400,2/13/2025,Keychain,12.08,Female,36,love note,3,36.24,Mombasa Docks
+401,1/17/2025,Perfume Sample,3.31,Female,36,greeting card,4,13.24,Naivasha Market
+402,1/11/2025,Chocolate,3.44,Male,45,flowers,3,10.32,Naivasha Market
+403,2/7/2025,Flowers,7.34,Male,30,gift ideas,3,22.02,Nakuru Center
+404,2/6/2025,Perfume Sample,8.45,Female,23,chocolate,1,8.45,Eldoret Bus Park
+405,1/5/2025,Teddy Bear,9.87,Female,24,love note,3,29.61,Kisumu Downtown
+406,1/30/2025,Keychain,7.15,Male,20,small gift,5,35.75,Thika Road Mall
+407,1/1/2025,Keychain,1.64,Male,32,small gift,1,1.64,Machakos Junction
+408,1/22/2025,Mug,13.39,Male,39,flowers,1,13.39,Kisumu Downtown
+409,1/8/2025,Greeting Card,6.59,Female,52,balloons,3,19.77,Eldoret Bus Park
+410,1/27/2025,Balloons,14.43,Male,21,love note,4,57.72,Eldoret Bus Park
+411,2/2/2025,Teddy Bear,7.16,Male,57,greeting card,4,28.64,Nairobi CBD
+412,1/19/2025,Flowers,8.08,Female,58,love note,5,40.4,Thika Road Mall
+413,2/10/2025,Teddy Bear,12.59,Male,47,balloons,3,37.77,Machakos Junction
+414,2/4/2025,Greeting Card,1.29,Female,28,simple gift,3,3.87,Thika Road Mall
+415,1/21/2025,Balloons,8.3,Female,27,love note,3,24.9,Kisumu Downtown
+416,1/27/2025,Balloons,13.78,Female,27,affordable gift,3,41.34,Nakuru Center
+417,1/30/2025,Cupcake,11.95,Male,39,flowers,2,23.9,Mombasa Docks
+418,1/23/2025,Teddy Bear,5.23,Male,35,affordable gift,5,26.15,Naivasha Market
+419,2/12/2025,Greeting Card,2.73,Female,50,small gift,1,2.73,Thika Road Mall
+420,1/1/2025,Greeting Card,7.4,Female,36,gift ideas,2,14.8,Naivasha Market
+421,2/12/2025,Greeting Card,1.29,Male,47,chocolate,1,1.29,Nairobi CBD
+422,1/24/2025,Chocolate,12,Male,28,small gift,4,48,Naivasha Market
+423,1/22/2025,Cupcake,12.92,Male,33,chocolate,5,64.6,Eldoret Bus Park
+424,1/20/2025,Keychain,3.64,Female,36,love note,2,7.28,Thika Road Mall
+425,1/31/2025,Keychain,1.78,Male,51,chocolate,2,3.56,Eldoret Bus Park
+426,1/28/2025,Teddy Bear,7.77,Female,58,gift ideas,1,7.77,Nakuru Center
+427,2/1/2025,Balloons,2.58,Female,29,greeting card,2,5.16,Thika Road Mall
+428,1/9/2025,Teddy Bear,13.63,Male,26,simple gift,2,27.26,Mombasa Docks
+429,1/14/2025,Cupcake,3.9,Male,34,love note,5,19.5,Thika Road Mall
+430,2/7/2025,Chocolate,8.53,Male,35,affordable gift,1,8.53,Kisumu Downtown
+431,2/12/2025,Perfume Sample,7.89,Male,45,gift ideas,2,15.78,Machakos Junction
+432,2/11/2025,Balloons,2.85,Female,19,gift ideas,4,11.4,Kisumu Downtown
+433,1/29/2025,Keychain,14.47,Female,27,greeting card,5,72.35,Naivasha Market
+434,1/7/2025,Teddy Bear,10.15,Female,28,small gift,1,10.15,Mombasa Docks
+435,1/18/2025,Flowers,4.23,Male,60,love note,5,21.15,Naivasha Market
+436,1/28/2025,Flowers,7.88,Female,19,flowers,5,39.4,Mombasa Docks
+437,1/17/2025,Cupcake,14.44,Male,37,cupcake,5,72.2,Eldoret Bus Park
+438,1/9/2025,Teddy Bear,4.25,Male,40,affordable gift,3,12.75,Machakos Junction
+439,1/16/2025,Balloons,13.77,Female,48,small gift,5,68.85,Mombasa Docks
+440,1/17/2025,Perfume Sample,6.87,Male,47,chocolate,3,20.61,Nakuru Center
+441,1/1/2025,Chocolate,7.85,Female,44,chocolate,1,7.85,Naivasha Market
+442,2/4/2025,Chocolate,1.59,Female,18,balloons,5,7.95,Mombasa Docks
+443,1/15/2025,Perfume Sample,13.68,Female,39,chocolate,5,68.4,Kisumu Downtown
+444,1/13/2025,Greeting Card,12.12,Female,22,gift ideas,1,12.12,Mombasa Docks
+445,1/15/2025,Keychain,11.97,Female,20,love note,2,23.94,Nairobi CBD
+446,1/30/2025,Balloons,11.19,Male,29,love note,3,33.57,Thika Road Mall
+447,2/7/2025,Flowers,3.54,Female,31,chocolate,2,7.08,Kisumu Downtown
+448,1/12/2025,Handmade Craft,10.68,Female,53,simple gift,2,21.36,Machakos Junction
+449,2/4/2025,Keychain,5.2,Female,39,greeting card,1,5.2,Eldoret Bus Park
+450,1/21/2025,Balloons,5.37,Male,24,love note,1,5.37,Kisumu Downtown
+451,1/14/2025,Perfume Sample,11.26,Female,36,chocolate,4,45.04,Machakos Junction
+452,2/4/2025,Chocolate,4.68,Female,54,love note,1,4.68,Mombasa Docks
+453,1/25/2025,Handmade Craft,13.36,Male,34,love note,1,13.36,Nakuru Center
+454,1/16/2025,Greeting Card,13.83,Male,54,flowers,3,41.49,Thika Road Mall
+455,1/14/2025,Flowers,10.26,Female,20,cupcake,5,51.3,Eldoret Bus Park
+456,2/8/2025,Mug,10.91,Male,46,cupcake,4,43.64,Eldoret Bus Park
+457,1/25/2025,Flowers,2.64,Female,28,greeting card,2,5.28,Nakuru Center
+458,1/26/2025,Greeting Card,6.08,Female,28,gift ideas,4,24.32,Nakuru Center
+459,1/4/2025,Cupcake,1.24,Female,56,affordable gift,4,4.96,Eldoret Bus Park
+460,2/12/2025,Flowers,1.93,Female,52,simple gift,4,7.72,Kisumu Downtown
+461,1/25/2025,Cupcake,9.79,Female,53,cupcake,4,39.16,Machakos Junction
+462,1/31/2025,Perfume Sample,9.98,Female,51,balloons,3,29.94,Nakuru Center
+463,1/25/2025,Handmade Craft,3.64,Female,42,greeting card,1,3.64,Mombasa Docks
+464,1/16/2025,Keychain,5.23,Male,45,greeting card,1,5.23,Eldoret Bus Park
+465,1/10/2025,Balloons,8.86,Male,21,cupcake,1,8.86,Naivasha Market
+466,1/6/2025,Perfume Sample,2.13,Female,19,balloons,2,4.26,Thika Road Mall
+467,1/25/2025,Greeting Card,8.35,Male,42,small gift,3,25.05,Nairobi CBD
+468,1/4/2025,Perfume Sample,5.09,Male,40,cupcake,3,15.27,Naivasha Market
+469,1/27/2025,Perfume Sample,3.89,Male,25,gift ideas,1,3.89,Nakuru Center
+470,1/11/2025,Chocolate,1.41,Female,39,gift ideas,5,7.05,Eldoret Bus Park
+471,1/11/2025,Handmade Craft,10.77,Female,45,simple gift,1,10.77,Mombasa Docks
+472,2/9/2025,Handmade Craft,1.9,Female,28,gift ideas,4,7.6,Eldoret Bus Park
+473,1/16/2025,Perfume Sample,3.46,Female,40,flowers,2,6.92,Kisumu Downtown
+474,2/8/2025,Mug,1.05,Male,34,affordable gift,4,4.2,Nairobi CBD
+475,1/14/2025,Perfume Sample,11.51,Female,39,flowers,2,23.02,Naivasha Market
+476,2/10/2025,Mug,11.27,Male,21,love note,2,22.54,Machakos Junction
+477,2/6/2025,Keychain,11.46,Male,44,greeting card,1,11.46,Thika Road Mall
+478,2/2/2025,Greeting Card,1.12,Male,35,balloons,5,5.6,Thika Road Mall
+479,2/9/2025,Perfume Sample,14.02,Male,39,cupcake,5,70.1,Naivasha Market
+480,1/2/2025,Perfume Sample,2.67,Male,59,cupcake,3,8.01,Naivasha Market
+481,1/4/2025,Chocolate,2.74,Female,50,chocolate,2,5.48,Machakos Junction
+482,2/14/2025,Mug,14.32,Male,27,greeting card,1,14.32,Nakuru Center
+483,1/18/2025,Balloons,2.05,Female,20,affordable gift,1,2.05,Mombasa Docks
+484,1/30/2025,Teddy Bear,11.08,Female,42,love note,2,22.16,Naivasha Market
+485,1/15/2025,Perfume Sample,14.21,Male,31,cupcake,1,14.21,Eldoret Bus Park
+486,1/1/2025,Handmade Craft,6.78,Female,58,greeting card,4,27.12,Mombasa Docks
+487,1/7/2025,Chocolate,7.82,Male,23,affordable gift,3,23.46,Mombasa Docks
+488,1/26/2025,Balloons,14.48,Female,58,simple gift,4,57.92,Nakuru Center
+489,2/14/2025,Cupcake,6.55,Female,56,affordable gift,5,32.75,Mombasa Docks
+490,1/27/2025,Perfume Sample,4.46,Female,59,affordable gift,4,17.84,Thika Road Mall
+491,2/7/2025,Cupcake,5.08,Male,20,chocolate,3,15.24,Nakuru Center
+492,1/10/2025,Handmade Craft,9.74,Female,43,love note,2,19.48,Thika Road Mall
+493,2/2/2025,Chocolate,10.93,Male,55,balloons,1,10.93,Thika Road Mall
+494,1/7/2025,Balloons,9.06,Male,52,flowers,5,45.3,Nakuru Center
+495,1/6/2025,Teddy Bear,11.06,Male,59,small gift,1,11.06,Naivasha Market
+496,1/18/2025,Balloons,14.65,Male,45,love note,2,29.3,Naivasha Market
+497,2/9/2025,Handmade Craft,2.31,Female,20,greeting card,5,11.55,Machakos Junction
+498,1/13/2025,Perfume Sample,14.81,Male,43,flowers,1,14.81,Thika Road Mall
+499,1/4/2025,Teddy Bear,6.77,Female,20,flowers,3,20.31,Mombasa Docks
+500,1/27/2025,Perfume Sample,1.46,Male,30,gift ideas,2,2.92,Thika Road Mall
+501,1/22/2025,Balloons,9.02,Male,55,gift ideas,4,36.08,Eldoret Bus Park
+502,1/17/2025,Mug,2.8,Male,27,balloons,5,14,Kisumu Downtown
+503,1/4/2025,Flowers,4.6,Male,28,gift ideas,2,9.2,Thika Road Mall
+504,2/3/2025,Cupcake,14.8,Male,27,chocolate,1,14.8,Eldoret Bus Park
+505,1/20/2025,Keychain,2.03,Male,40,cupcake,2,4.06,Machakos Junction
+506,1/10/2025,Chocolate,12.31,Male,58,simple gift,2,24.62,Nairobi CBD
+507,1/6/2025,Chocolate,14.86,Male,44,gift ideas,1,14.86,Nakuru Center
+508,1/16/2025,Mug,13.55,Male,21,cupcake,3,40.65,Kisumu Downtown
+509,1/11/2025,Flowers,10.74,Female,23,cupcake,3,32.22,Nakuru Center
+510,2/12/2025,Mug,10.22,Female,25,love note,3,30.66,Machakos Junction
+511,1/1/2025,Greeting Card,9.4,Male,42,affordable gift,3,28.2,Kisumu Downtown
+512,1/27/2025,Perfume Sample,12.9,Female,59,flowers,2,25.8,Kisumu Downtown
+513,2/13/2025,Handmade Craft,14.02,Female,32,cupcake,3,42.06,Kisumu Downtown
+514,2/1/2025,Keychain,4.97,Male,57,simple gift,2,9.94,Nakuru Center
+515,2/1/2025,Teddy Bear,3.3,Male,31,affordable gift,3,9.9,Mombasa Docks
+516,2/6/2025,Balloons,12.51,Female,50,chocolate,3,37.53,Mombasa Docks
+517,2/3/2025,Teddy Bear,14.84,Female,26,chocolate,2,29.68,Kisumu Downtown
+518,1/22/2025,Balloons,7.47,Male,25,chocolate,2,14.94,Mombasa Docks
+519,1/27/2025,Balloons,2.8,Female,47,greeting card,2,5.6,Naivasha Market
+520,1/11/2025,Cupcake,9.22,Male,49,cupcake,1,9.22,Thika Road Mall
+521,1/21/2025,Chocolate,1.66,Male,59,gift ideas,4,6.64,Mombasa Docks
+522,2/3/2025,Flowers,6.98,Male,30,cupcake,4,27.92,Kisumu Downtown
+523,1/19/2025,Perfume Sample,5.9,Male,30,chocolate,4,23.6,Machakos Junction
+524,1/1/2025,Keychain,8.2,Male,39,love note,4,32.8,Eldoret Bus Park
+525,2/12/2025,Balloons,8.34,Male,20,small gift,1,8.34,Machakos Junction
+526,1/24/2025,Flowers,14.74,Male,55,chocolate,4,58.96,Nairobi CBD
+527,1/17/2025,Chocolate,6.66,Male,44,love note,1,6.66,Kisumu Downtown
+528,1/31/2025,Cupcake,8.44,Male,28,cupcake,1,8.44,Mombasa Docks
+529,2/13/2025,Mug,9.46,Female,20,gift ideas,4,37.84,Thika Road Mall
+530,1/2/2025,Flowers,1.63,Male,30,simple gift,1,1.63,Mombasa Docks
+531,1/5/2025,Flowers,14.9,Male,59,simple gift,4,59.6,Mombasa Docks
+532,1/17/2025,Handmade Craft,3.88,Female,42,affordable gift,4,15.52,Nakuru Center
+533,1/18/2025,Chocolate,1.07,Female,22,love note,1,1.07,Naivasha Market
+534,1/9/2025,Teddy Bear,12.96,Male,37,gift ideas,4,51.84,Nairobi CBD
+535,1/30/2025,Flowers,14.43,Female,20,affordable gift,5,72.15,Kisumu Downtown
+536,1/12/2025,Chocolate,11.52,Male,56,small gift,3,34.56,Nakuru Center
+537,2/9/2025,Perfume Sample,5.09,Female,23,small gift,3,15.27,Nakuru Center
+538,1/3/2025,Teddy Bear,12.66,Male,46,affordable gift,4,50.64,Kisumu Downtown
+539,1/9/2025,Cupcake,12.38,Male,56,chocolate,2,24.76,Kisumu Downtown
+540,1/25/2025,Teddy Bear,8.14,Female,38,simple gift,5,40.7,Thika Road Mall
+541,1/2/2025,Handmade Craft,6.71,Female,29,affordable gift,5,33.55,Kisumu Downtown
+542,1/4/2025,Keychain,3.11,Female,55,chocolate,4,12.44,Naivasha Market
+543,1/2/2025,Handmade Craft,13.34,Male,35,greeting card,2,26.68,Mombasa Docks
+544,1/12/2025,Chocolate,12.76,Female,29,affordable gift,2,25.52,Kisumu Downtown
+545,1/7/2025,Balloons,11.24,Male,26,affordable gift,4,44.96,Thika Road Mall
+546,1/20/2025,Teddy Bear,2.35,Male,45,simple gift,3,7.05,Kisumu Downtown
+547,1/2/2025,Chocolate,10.04,Female,43,simple gift,1,10.04,Nairobi CBD
+548,1/28/2025,Handmade Craft,11.44,Female,44,greeting card,2,22.88,Naivasha Market
+549,1/17/2025,Cupcake,5.29,Male,38,love note,1,5.29,Eldoret Bus Park
+550,2/13/2025,Balloons,9.57,Male,44,simple gift,3,28.71,Nakuru Center
+551,1/15/2025,Greeting Card,9,Male,56,small gift,2,18,Kisumu Downtown
+552,1/26/2025,Keychain,5.45,Male,44,balloons,4,21.8,Machakos Junction
+553,1/25/2025,Keychain,14.06,Male,21,balloons,5,70.3,Machakos Junction
+554,2/11/2025,Keychain,13.26,Male,30,simple gift,1,13.26,Naivasha Market
+555,1/13/2025,Perfume Sample,13.08,Male,54,gift ideas,5,65.4,Nairobi CBD
+556,1/17/2025,Greeting Card,5.2,Male,44,love note,2,10.4,Kisumu Downtown
+557,2/8/2025,Keychain,11.67,Male,32,simple gift,1,11.67,Naivasha Market
+558,1/13/2025,Balloons,10.03,Female,35,cupcake,2,20.06,Kisumu Downtown
+559,1/5/2025,Handmade Craft,3.54,Female,55,small gift,1,3.54,Machakos Junction
+560,2/10/2025,Chocolate,12.82,Male,39,flowers,1,12.82,Machakos Junction
+561,2/6/2025,Perfume Sample,1.66,Male,43,flowers,1,1.66,Thika Road Mall
+562,1/29/2025,Keychain,12.66,Female,44,chocolate,5,63.3,Mombasa Docks
+563,1/14/2025,Keychain,1.56,Female,44,affordable gift,1,1.56,Naivasha Market
+564,1/15/2025,Keychain,7.6,Male,57,simple gift,3,22.8,Kisumu Downtown
+565,1/10/2025,Flowers,9.72,Female,23,cupcake,5,48.6,Thika Road Mall
+566,1/16/2025,Handmade Craft,12.97,Female,37,flowers,5,64.85,Kisumu Downtown
+567,2/12/2025,Teddy Bear,7.57,Male,50,flowers,1,7.57,Nakuru Center
+568,2/5/2025,Teddy Bear,8.32,Male,49,balloons,1,8.32,Machakos Junction
+569,2/13/2025,Keychain,10.94,Male,42,simple gift,3,32.82,Nakuru Center
+570,2/8/2025,Handmade Craft,3.04,Female,40,flowers,4,12.16,Thika Road Mall
+571,1/22/2025,Balloons,1.84,Female,38,balloons,5,9.2,Machakos Junction
+572,1/2/2025,Teddy Bear,6.95,Female,28,greeting card,2,13.9,Kisumu Downtown
+573,2/2/2025,Handmade Craft,9.69,Male,20,balloons,4,38.76,Nakuru Center
+574,1/6/2025,Teddy Bear,6.9,Female,23,flowers,3,20.7,Nairobi CBD
+575,1/4/2025,Handmade Craft,3.59,Male,30,simple gift,3,10.77,Thika Road Mall
+576,1/25/2025,Cupcake,6.88,Female,54,simple gift,1,6.88,Eldoret Bus Park
+577,1/24/2025,Flowers,10.22,Male,52,affordable gift,5,51.1,Kisumu Downtown
+578,1/26/2025,Handmade Craft,12.16,Female,34,affordable gift,3,36.48,Machakos Junction
+579,2/11/2025,Balloons,4.65,Male,54,flowers,5,23.25,Eldoret Bus Park
+580,1/13/2025,Teddy Bear,5.31,Female,45,balloons,5,26.55,Thika Road Mall
+581,1/31/2025,Balloons,3.79,Female,46,love note,3,11.37,Nairobi CBD
+582,1/28/2025,Handmade Craft,2.94,Male,32,small gift,2,5.88,Nairobi CBD
+583,1/21/2025,Chocolate,9.57,Female,32,balloons,1,9.57,Naivasha Market
+584,2/6/2025,Handmade Craft,1.14,Female,45,simple gift,5,5.7,Nakuru Center
+585,1/11/2025,Keychain,6.35,Male,60,chocolate,3,19.05,Eldoret Bus Park
+586,1/11/2025,Keychain,11.81,Female,59,love note,3,35.43,Thika Road Mall
+587,1/7/2025,Greeting Card,1.9,Male,23,balloons,3,5.7,Mombasa Docks
+588,1/3/2025,Greeting Card,13.7,Male,45,flowers,1,13.7,Eldoret Bus Park
+589,2/3/2025,Perfume Sample,8.47,Male,30,small gift,4,33.88,Naivasha Market
+590,2/12/2025,Mug,7.02,Female,35,chocolate,4,28.08,Machakos Junction
+591,1/6/2025,Perfume Sample,14.78,Male,34,balloons,1,14.78,Kisumu Downtown
+592,1/9/2025,Teddy Bear,5.55,Male,29,greeting card,3,16.65,Machakos Junction
+593,1/5/2025,Teddy Bear,1.92,Female,21,chocolate,4,7.68,Eldoret Bus Park
+594,1/3/2025,Flowers,6.53,Male,53,chocolate,5,32.65,Nakuru Center
+595,1/11/2025,Mug,2.22,Male,50,affordable gift,1,2.22,Machakos Junction
+596,2/7/2025,Greeting Card,9.64,Female,31,flowers,4,38.56,Nakuru Center
+597,2/13/2025,Chocolate,4.77,Female,30,chocolate,1,4.77,Eldoret Bus Park
+598,1/6/2025,Mug,7.22,Female,52,greeting card,2,14.44,Machakos Junction
+599,1/25/2025,Balloons,10.61,Female,27,cupcake,2,21.22,Naivasha Market
+600,1/24/2025,Teddy Bear,9.92,Male,55,gift ideas,2,19.84,Thika Road Mall
+601,1/25/2025,Greeting Card,5.8,Female,54,balloons,2,11.6,Nairobi CBD
+602,2/7/2025,Balloons,11.6,Male,55,greeting card,5,58,Kisumu Downtown
+603,1/22/2025,Flowers,14.01,Female,40,simple gift,1,14.01,Nakuru Center
+604,1/5/2025,Handmade Craft,5.6,Female,23,love note,3,16.8,Naivasha Market
+605,1/16/2025,Flowers,14.85,Female,60,gift ideas,1,14.85,Nairobi CBD
+606,2/6/2025,Handmade Craft,11.2,Male,50,love note,1,11.2,Machakos Junction
+607,1/5/2025,Perfume Sample,4.35,Male,54,love note,4,17.4,Eldoret Bus Park
+608,1/3/2025,Keychain,9.67,Female,29,cupcake,3,29.01,Kisumu Downtown
+609,1/22/2025,Greeting Card,2.85,Female,59,cupcake,5,14.25,Thika Road Mall
+610,1/18/2025,Teddy Bear,13.06,Female,43,affordable gift,3,39.18,Nairobi CBD
+611,2/3/2025,Keychain,14.6,Female,32,cupcake,1,14.6,Machakos Junction
+612,1/22/2025,Mug,7.32,Female,19,simple gift,1,7.32,Thika Road Mall
+613,2/5/2025,Teddy Bear,2.81,Female,30,love note,3,8.43,Nakuru Center
+614,2/13/2025,Greeting Card,11.73,Female,47,affordable gift,4,46.92,Eldoret Bus Park
+615,1/6/2025,Greeting Card,13.04,Female,52,flowers,5,65.2,Thika Road Mall
+616,2/8/2025,Flowers,6.41,Female,20,simple gift,1,6.41,Nakuru Center
+617,1/21/2025,Teddy Bear,10.79,Male,41,simple gift,2,21.58,Kisumu Downtown
+618,1/6/2025,Greeting Card,3.86,Female,51,flowers,1,3.86,Naivasha Market
+619,2/2/2025,Handmade Craft,7.88,Female,40,small gift,4,31.52,Thika Road Mall
+620,1/8/2025,Teddy Bear,7.85,Female,30,affordable gift,1,7.85,Naivasha Market
+621,1/29/2025,Handmade Craft,7.53,Female,55,love note,3,22.59,Mombasa Docks
+622,1/10/2025,Mug,3.57,Female,31,flowers,4,14.28,Nairobi CBD
+623,1/13/2025,Greeting Card,4.6,Female,22,chocolate,1,4.6,Naivasha Market
+624,1/1/2025,Teddy Bear,2.76,Female,46,gift ideas,4,11.04,Thika Road Mall
+625,1/8/2025,Handmade Craft,11.34,Female,23,chocolate,4,45.36,Naivasha Market
+626,1/5/2025,Flowers,10.32,Male,24,chocolate,5,51.6,Eldoret Bus Park
+627,1/4/2025,Perfume Sample,12.66,Female,34,simple gift,2,25.32,Nairobi CBD
+628,1/7/2025,Greeting Card,9.54,Female,45,love note,3,28.62,Nakuru Center
+629,1/13/2025,Keychain,6.67,Female,58,cupcake,3,20.01,Thika Road Mall
+630,1/26/2025,Chocolate,4.33,Female,54,chocolate,5,21.65,Thika Road Mall
+631,1/6/2025,Flowers,14.82,Male,23,small gift,5,74.1,Machakos Junction
+632,1/13/2025,Teddy Bear,7.9,Male,43,gift ideas,2,15.8,Nakuru Center
+633,2/6/2025,Teddy Bear,8.89,Male,39,chocolate,1,8.89,Kisumu Downtown
+634,2/1/2025,Cupcake,10.82,Male,57,chocolate,1,10.82,Machakos Junction
+635,2/11/2025,Cupcake,3.52,Female,40,love note,4,14.08,Mombasa Docks
+636,1/25/2025,Handmade Craft,14.29,Male,40,cupcake,1,14.29,Naivasha Market
+637,1/14/2025,Balloons,7.32,Female,20,flowers,5,36.6,Nakuru Center
+638,1/31/2025,Balloons,9.29,Female,22,love note,2,18.58,Thika Road Mall
+639,1/20/2025,Teddy Bear,13.3,Female,21,small gift,5,66.5,Nakuru Center
+640,1/10/2025,Keychain,2.74,Male,50,cupcake,3,8.22,Nakuru Center
+641,1/25/2025,Greeting Card,9.23,Female,20,cupcake,5,46.15,Machakos Junction
+642,1/28/2025,Chocolate,10.48,Female,51,chocolate,5,52.4,Kisumu Downtown
+643,2/8/2025,Chocolate,11.36,Female,23,greeting card,4,45.44,Kisumu Downtown
+644,2/10/2025,Teddy Bear,10.1,Female,30,gift ideas,5,50.5,Naivasha Market
+645,1/10/2025,Flowers,10.86,Female,49,small gift,2,21.72,Nairobi CBD
+646,1/20/2025,Keychain,10.8,Male,34,small gift,1,10.8,Kisumu Downtown
+647,1/21/2025,Greeting Card,11.57,Male,55,flowers,3,34.71,Machakos Junction
+648,1/23/2025,Mug,6.07,Female,30,gift ideas,5,30.35,Kisumu Downtown
+649,1/2/2025,Chocolate,14.37,Female,51,gift ideas,1,14.37,Nakuru Center
+650,1/13/2025,Greeting Card,11.33,Female,22,love note,2,22.66,Machakos Junction
+651,2/3/2025,Teddy Bear,7.29,Male,54,balloons,5,36.45,Thika Road Mall
+652,2/8/2025,Chocolate,14.84,Male,52,love note,3,44.52,Eldoret Bus Park
+653,2/10/2025,Chocolate,7.28,Male,42,love note,3,21.84,Naivasha Market
+654,1/20/2025,Keychain,4.88,Male,50,affordable gift,5,24.4,Thika Road Mall
+655,1/24/2025,Balloons,7.5,Female,47,small gift,3,22.5,Nairobi CBD
+656,1/9/2025,Keychain,3.52,Female,33,affordable gift,3,10.56,Nairobi CBD
+657,2/12/2025,Cupcake,1.63,Male,22,cupcake,1,1.63,Kisumu Downtown
+658,1/28/2025,Flowers,4.38,Female,35,love note,4,17.52,Mombasa Docks
+659,2/6/2025,Greeting Card,5.72,Female,20,love note,4,22.88,Machakos Junction
+660,2/11/2025,Perfume Sample,4.97,Male,47,gift ideas,5,24.85,Eldoret Bus Park
+661,1/6/2025,Mug,8.34,Female,32,love note,1,8.34,Mombasa Docks
+662,2/7/2025,Cupcake,7.04,Female,21,gift ideas,5,35.2,Naivasha Market
+663,2/3/2025,Chocolate,3.89,Male,21,love note,5,19.45,Eldoret Bus Park
+664,2/10/2025,Flowers,12.01,Female,32,balloons,1,12.01,Machakos Junction
+665,1/5/2025,Keychain,11.18,Female,49,greeting card,1,11.18,Nakuru Center
+666,1/24/2025,Cupcake,7.56,Female,37,gift ideas,1,7.56,Naivasha Market
+667,1/8/2025,Keychain,9,Male,44,flowers,3,27,Mombasa Docks
+668,1/9/2025,Greeting Card,12.48,Female,35,simple gift,2,24.96,Nakuru Center
+669,2/4/2025,Teddy Bear,5.68,Female,25,small gift,5,28.4,Nakuru Center
+670,1/17/2025,Chocolate,8.43,Female,33,cupcake,3,25.29,Thika Road Mall
+671,1/10/2025,Chocolate,2.46,Female,41,small gift,5,12.3,Kisumu Downtown
+672,2/6/2025,Cupcake,7.55,Male,49,love note,1,7.55,Mombasa Docks
+673,1/5/2025,Flowers,6.24,Female,28,greeting card,4,24.96,Machakos Junction
+674,2/13/2025,Handmade Craft,12.15,Male,23,love note,5,60.75,Mombasa Docks
+675,1/1/2025,Handmade Craft,14.33,Female,24,flowers,4,57.32,Nairobi CBD
+676,1/3/2025,Handmade Craft,14.22,Female,19,greeting card,1,14.22,Mombasa Docks
+677,1/24/2025,Keychain,10.5,Female,44,balloons,5,52.5,Thika Road Mall
+678,1/27/2025,Mug,9.98,Male,18,flowers,1,9.98,Machakos Junction
+679,2/10/2025,Mug,7.85,Male,34,flowers,4,31.4,Kisumu Downtown
+680,1/18/2025,Keychain,2.11,Female,19,cupcake,5,10.55,Eldoret Bus Park
+681,1/28/2025,Perfume Sample,9.28,Female,43,balloons,4,37.12,Mombasa Docks
+682,2/7/2025,Cupcake,5.11,Female,29,balloons,1,5.11,Naivasha Market
+683,1/2/2025,Perfume Sample,8.78,Male,27,greeting card,2,17.56,Thika Road Mall
+684,1/26/2025,Flowers,11.48,Male,40,love note,1,11.48,Thika Road Mall
+685,1/10/2025,Keychain,12.62,Female,33,cupcake,4,50.48,Mombasa Docks
+686,2/4/2025,Keychain,11.9,Male,55,small gift,4,47.6,Naivasha Market
+687,1/16/2025,Keychain,6.24,Female,44,flowers,4,24.96,Eldoret Bus Park
+688,1/4/2025,Teddy Bear,14.78,Female,47,small gift,4,59.12,Mombasa Docks
+689,1/26/2025,Perfume Sample,10.49,Female,40,small gift,4,41.96,Nakuru Center
+690,1/3/2025,Teddy Bear,4.47,Male,23,flowers,2,8.94,Machakos Junction
+691,2/5/2025,Perfume Sample,4.14,Female,53,chocolate,2,8.28,Nairobi CBD
+692,2/7/2025,Flowers,13.69,Male,23,simple gift,3,41.07,Nairobi CBD
+693,2/9/2025,Mug,14.94,Female,53,chocolate,4,59.76,Nairobi CBD
+694,2/9/2025,Mug,9.63,Male,38,flowers,4,38.52,Eldoret Bus Park
+695,2/13/2025,Chocolate,2.96,Male,44,chocolate,4,11.84,Naivasha Market
+696,1/26/2025,Chocolate,8.69,Female,30,flowers,2,17.38,Eldoret Bus Park
+697,1/11/2025,Handmade Craft,4.66,Female,30,gift ideas,5,23.3,Nakuru Center
+698,1/27/2025,Keychain,13.89,Male,46,chocolate,5,69.45,Nairobi CBD
+699,2/10/2025,Cupcake,14.96,Male,28,gift ideas,2,29.92,Naivasha Market
+700,1/24/2025,Cupcake,3.12,Male,32,flowers,1,3.12,Kisumu Downtown
+701,2/5/2025,Perfume Sample,12.56,Female,48,chocolate,4,50.24,Naivasha Market
+702,2/10/2025,Cupcake,4.59,Female,31,love note,4,18.36,Naivasha Market
+703,2/2/2025,Teddy Bear,14.42,Male,18,chocolate,3,43.26,Nakuru Center
+704,2/10/2025,Handmade Craft,7.6,Female,59,gift ideas,3,22.8,Mombasa Docks
+705,1/20/2025,Mug,12.28,Female,52,greeting card,1,12.28,Nairobi CBD
+706,2/4/2025,Teddy Bear,6.53,Female,28,cupcake,2,13.06,Nairobi CBD
+707,1/20/2025,Cupcake,1.49,Male,26,simple gift,2,2.98,Kisumu Downtown
+708,1/30/2025,Mug,3.17,Female,45,chocolate,1,3.17,Naivasha Market
+709,1/24/2025,Perfume Sample,14.02,Female,21,affordable gift,5,70.1,Nakuru Center
+710,1/1/2025,Chocolate,5.9,Male,34,flowers,2,11.8,Nakuru Center
+711,2/11/2025,Greeting Card,5.37,Male,38,cupcake,4,21.48,Nairobi CBD
+712,1/29/2025,Handmade Craft,9.72,Female,19,affordable gift,5,48.6,Kisumu Downtown
+713,1/16/2025,Handmade Craft,11.5,Female,34,small gift,4,46,Kisumu Downtown
+714,1/18/2025,Cupcake,14.91,Female,32,small gift,4,59.64,Nairobi CBD
+715,2/14/2025,Handmade Craft,4.51,Female,49,cupcake,1,4.51,Nairobi CBD
+716,2/11/2025,Perfume Sample,4.17,Female,19,love note,3,12.51,Thika Road Mall
+717,1/21/2025,Chocolate,13.69,Male,38,balloons,2,27.38,Machakos Junction
+718,1/9/2025,Mug,13.31,Male,57,flowers,2,26.62,Machakos Junction
+719,1/10/2025,Perfume Sample,8.28,Male,46,greeting card,5,41.4,Mombasa Docks
+720,1/28/2025,Chocolate,5.69,Female,38,gift ideas,5,28.45,Nairobi CBD
+721,1/27/2025,Chocolate,3.66,Male,28,affordable gift,3,10.98,Thika Road Mall
+722,1/14/2025,Handmade Craft,11.16,Male,54,love note,5,55.8,Kisumu Downtown
+723,1/13/2025,Perfume Sample,7.85,Female,59,affordable gift,3,23.55,Thika Road Mall
+724,2/10/2025,Perfume Sample,2.02,Female,24,simple gift,4,8.08,Kisumu Downtown
+725,1/27/2025,Keychain,5.65,Female,38,affordable gift,5,28.25,Thika Road Mall
+726,2/8/2025,Greeting Card,12.02,Male,22,chocolate,5,60.1,Thika Road Mall
+727,2/5/2025,Teddy Bear,14.77,Female,44,love note,1,14.77,Naivasha Market
+728,2/14/2025,Cupcake,13.86,Female,26,small gift,5,69.3,Machakos Junction
+729,2/14/2025,Greeting Card,4.42,Female,40,simple gift,1,4.42,Nakuru Center
+730,2/10/2025,Perfume Sample,13.85,Male,34,affordable gift,1,13.85,Machakos Junction
+731,1/28/2025,Balloons,5.53,Male,30,small gift,2,11.06,Mombasa Docks
+732,1/8/2025,Greeting Card,4.61,Male,24,cupcake,2,9.22,Thika Road Mall
+733,2/12/2025,Perfume Sample,13.32,Female,52,chocolate,4,53.28,Kisumu Downtown
+734,2/3/2025,Mug,14.13,Male,22,flowers,1,14.13,Nakuru Center
+735,1/10/2025,Flowers,11.03,Female,32,greeting card,4,44.12,Kisumu Downtown
+736,2/4/2025,Balloons,5.57,Male,20,chocolate,3,16.71,Thika Road Mall
+737,2/7/2025,Mug,8.83,Female,38,cupcake,3,26.49,Thika Road Mall
+738,1/1/2025,Handmade Craft,1.9,Female,52,cupcake,1,1.9,Naivasha Market
+739,2/6/2025,Mug,2.68,Male,24,flowers,5,13.4,Naivasha Market
+740,2/7/2025,Handmade Craft,1.95,Male,52,greeting card,3,5.85,Thika Road Mall
+741,1/17/2025,Teddy Bear,11.62,Female,31,flowers,1,11.62,Naivasha Market
+742,1/31/2025,Cupcake,5.1,Male,45,small gift,3,15.3,Nairobi CBD
+743,2/8/2025,Chocolate,6.65,Female,41,balloons,1,6.65,Nairobi CBD
+744,1/2/2025,Chocolate,12.03,Male,45,small gift,2,24.06,Naivasha Market
+745,1/3/2025,Keychain,12.95,Male,27,simple gift,2,25.9,Machakos Junction
+746,2/5/2025,Chocolate,2.74,Female,56,cupcake,5,13.7,Nakuru Center
+747,1/28/2025,Flowers,13.93,Male,35,simple gift,3,41.79,Thika Road Mall
+748,2/13/2025,Cupcake,8.86,Male,24,simple gift,3,26.58,Machakos Junction
+749,1/18/2025,Flowers,14.04,Female,43,simple gift,5,70.2,Eldoret Bus Park
+750,1/9/2025,Keychain,2.87,Female,30,cupcake,2,5.74,Eldoret Bus Park
+751,1/19/2025,Chocolate,9.66,Female,57,greeting card,2,19.32,Machakos Junction
+752,2/10/2025,Mug,4.64,Female,20,balloons,3,13.92,Thika Road Mall
+753,1/7/2025,Teddy Bear,1.59,Male,52,chocolate,4,6.36,Naivasha Market
+754,1/26/2025,Greeting Card,8.22,Male,60,small gift,1,8.22,Mombasa Docks
+755,1/9/2025,Greeting Card,8.37,Female,30,chocolate,1,8.37,Naivasha Market
+756,2/7/2025,Teddy Bear,1.13,Male,37,affordable gift,4,4.52,Naivasha Market
+757,1/17/2025,Flowers,8.86,Female,27,balloons,3,26.58,Eldoret Bus Park
+758,1/18/2025,Flowers,5.46,Female,53,small gift,5,27.3,Kisumu Downtown
+759,1/18/2025,Handmade Craft,7.26,Male,25,simple gift,5,36.3,Naivasha Market
+760,1/27/2025,Handmade Craft,9.16,Female,51,greeting card,2,18.32,Mombasa Docks
+761,2/4/2025,Teddy Bear,9.47,Male,46,love note,5,47.35,Thika Road Mall
+762,1/2/2025,Cupcake,10.33,Female,28,affordable gift,2,20.66,Nairobi CBD
+763,2/12/2025,Greeting Card,7.07,Male,49,chocolate,5,35.35,Kisumu Downtown
+764,2/9/2025,Handmade Craft,4.27,Male,60,greeting card,2,8.54,Nairobi CBD
+765,2/5/2025,Flowers,14.06,Female,27,simple gift,1,14.06,Nakuru Center
+766,2/7/2025,Cupcake,8.79,Male,18,chocolate,4,35.16,Eldoret Bus Park
+767,1/10/2025,Balloons,10.16,Male,56,chocolate,2,20.32,Nairobi CBD
+768,1/28/2025,Handmade Craft,9.13,Male,54,love note,4,36.52,Naivasha Market
+769,1/13/2025,Perfume Sample,11.32,Female,24,flowers,5,56.6,Kisumu Downtown
+770,1/30/2025,Chocolate,7.39,Female,20,flowers,2,14.78,Naivasha Market
+771,2/14/2025,Chocolate,9.36,Male,52,cupcake,1,9.36,Naivasha Market
+772,1/11/2025,Mug,9.36,Female,35,greeting card,1,9.36,Naivasha Market
+773,1/21/2025,Perfume Sample,5.85,Female,37,cupcake,4,23.4,Nairobi CBD
+774,1/16/2025,Mug,2.49,Male,21,gift ideas,2,4.98,Machakos Junction
+775,2/13/2025,Chocolate,11.55,Female,59,affordable gift,3,34.65,Nairobi CBD
+776,1/17/2025,Chocolate,2.62,Female,54,affordable gift,3,7.86,Machakos Junction
+777,1/1/2025,Mug,12.96,Female,43,balloons,4,51.84,Kisumu Downtown
+778,1/26/2025,Handmade Craft,9.7,Male,52,chocolate,5,48.5,Machakos Junction
+779,1/8/2025,Greeting Card,10.96,Female,59,simple gift,4,43.84,Naivasha Market
+780,1/2/2025,Teddy Bear,13.99,Female,18,small gift,4,55.96,Nairobi CBD
+781,2/3/2025,Cupcake,1.3,Male,53,simple gift,5,6.5,Eldoret Bus Park
+782,1/13/2025,Teddy Bear,6.31,Female,39,simple gift,3,18.93,Nairobi CBD
+783,1/25/2025,Mug,9.02,Female,48,chocolate,5,45.1,Thika Road Mall
+784,1/17/2025,Perfume Sample,9.88,Male,45,balloons,5,49.4,Nakuru Center
+785,1/8/2025,Flowers,2.4,Female,21,balloons,5,12,Thika Road Mall
+786,1/4/2025,Chocolate,8.12,Male,49,greeting card,2,16.24,Nairobi CBD
+787,2/14/2025,Mug,4.62,Female,22,chocolate,3,13.86,Kisumu Downtown
+788,1/16/2025,Chocolate,11.33,Male,19,gift ideas,4,45.32,Thika Road Mall
+789,2/12/2025,Greeting Card,1.65,Male,20,balloons,4,6.6,Thika Road Mall
+790,2/6/2025,Mug,7.47,Male,26,greeting card,4,29.88,Nairobi CBD
+791,2/2/2025,Cupcake,7.43,Female,42,love note,5,37.15,Mombasa Docks
+792,1/26/2025,Flowers,13.49,Male,43,gift ideas,1,13.49,Machakos Junction
+793,1/6/2025,Chocolate,2.92,Female,29,chocolate,2,5.84,Naivasha Market
+794,1/20/2025,Greeting Card,12.49,Male,38,cupcake,2,24.98,Thika Road Mall
+795,1/17/2025,Greeting Card,11.31,Female,25,cupcake,4,45.24,Nairobi CBD
+796,1/2/2025,Greeting Card,11.51,Male,29,balloons,3,34.53,Eldoret Bus Park
+797,2/6/2025,Handmade Craft,14.87,Male,60,love note,1,14.87,Thika Road Mall
+798,1/25/2025,Perfume Sample,3.05,Female,42,gift ideas,4,12.2,Kisumu Downtown
+799,1/14/2025,Handmade Craft,8.76,Female,44,small gift,1,8.76,Nairobi CBD
+800,1/22/2025,Flowers,11.05,Male,48,cupcake,3,33.15,Naivasha Market
+801,2/8/2025,Flowers,10.3,Male,53,small gift,4,41.2,Nairobi CBD
+802,1/17/2025,Handmade Craft,4.72,Female,47,affordable gift,5,23.6,Mombasa Docks
+803,1/27/2025,Cupcake,12.89,Female,38,balloons,1,12.89,Machakos Junction
+804,1/9/2025,Mug,3.47,Female,44,cupcake,1,3.47,Kisumu Downtown
+805,1/18/2025,Chocolate,3.9,Female,27,small gift,1,3.9,Thika Road Mall
+806,1/16/2025,Mug,1.29,Female,26,balloons,2,2.58,Mombasa Docks
+807,2/14/2025,Handmade Craft,2.65,Male,24,flowers,1,2.65,Nakuru Center
+808,2/8/2025,Mug,10.63,Female,44,affordable gift,1,10.63,Mombasa Docks
+809,2/10/2025,Flowers,13.73,Male,36,gift ideas,4,54.92,Kisumu Downtown
+810,1/28/2025,Balloons,3.65,Female,18,simple gift,4,14.6,Naivasha Market
+811,1/5/2025,Chocolate,12.13,Male,38,greeting card,1,12.13,Nakuru Center
+812,2/12/2025,Cupcake,11.4,Female,39,chocolate,2,22.8,Kisumu Downtown
+813,1/17/2025,Cupcake,9.13,Female,24,balloons,1,9.13,Mombasa Docks
+814,1/14/2025,Flowers,12.1,Male,54,flowers,4,48.4,Nairobi CBD
+815,1/20/2025,Balloons,5.28,Female,47,gift ideas,2,10.56,Machakos Junction
+816,1/8/2025,Flowers,12.21,Female,18,chocolate,5,61.05,Kisumu Downtown
+817,2/12/2025,Handmade Craft,6.08,Male,34,love note,5,30.4,Thika Road Mall
+818,1/6/2025,Mug,2.78,Female,25,affordable gift,4,11.12,Mombasa Docks
+819,1/31/2025,Mug,1.83,Male,20,love note,4,7.32,Thika Road Mall
+820,1/11/2025,Mug,10.79,Female,32,greeting card,4,43.16,Naivasha Market
+821,1/31/2025,Mug,6.98,Female,47,chocolate,3,20.94,Machakos Junction
+822,2/3/2025,Greeting Card,3.5,Female,43,love note,1,3.5,Thika Road Mall
+823,1/2/2025,Chocolate,6.87,Male,57,greeting card,3,20.61,Machakos Junction
+824,1/30/2025,Cupcake,1.2,Female,46,chocolate,5,6,Mombasa Docks
+825,1/20/2025,Mug,2.87,Male,53,small gift,2,5.74,Nairobi CBD
+826,1/13/2025,Flowers,4.13,Male,42,balloons,1,4.13,Thika Road Mall
+827,1/29/2025,Cupcake,1.84,Female,51,affordable gift,4,7.36,Machakos Junction
+828,1/9/2025,Flowers,2.37,Female,58,affordable gift,1,2.37,Naivasha Market
+829,1/25/2025,Balloons,7.45,Female,55,small gift,2,14.9,Nakuru Center
+830,2/11/2025,Cupcake,8.95,Male,23,gift ideas,5,44.75,Eldoret Bus Park
+831,1/10/2025,Flowers,3.11,Female,32,greeting card,4,12.44,Nakuru Center
+832,1/3/2025,Perfume Sample,8.29,Female,42,small gift,4,33.16,Thika Road Mall
+833,1/7/2025,Handmade Craft,3.48,Female,43,balloons,5,17.4,Nakuru Center
+834,1/19/2025,Chocolate,10.09,Female,54,flowers,2,20.18,Mombasa Docks
+835,1/3/2025,Balloons,2.48,Female,28,simple gift,1,2.48,Naivasha Market
+836,1/6/2025,Balloons,4.18,Male,32,small gift,3,12.54,Mombasa Docks
+837,2/7/2025,Greeting Card,11.08,Female,57,small gift,2,22.16,Nairobi CBD
+838,1/18/2025,Mug,4.08,Male,35,balloons,4,16.32,Machakos Junction
+839,1/26/2025,Chocolate,14.71,Male,44,chocolate,5,73.55,Machakos Junction
+840,2/1/2025,Balloons,3.42,Female,26,chocolate,3,10.26,Nakuru Center
+841,2/7/2025,Greeting Card,3.57,Male,34,gift ideas,3,10.71,Eldoret Bus Park
+842,2/9/2025,Chocolate,1.61,Male,45,greeting card,4,6.44,Nakuru Center
+843,2/5/2025,Keychain,10.6,Female,39,simple gift,4,42.4,Mombasa Docks
+844,1/8/2025,Keychain,8.28,Male,29,cupcake,1,8.28,Machakos Junction
+845,2/14/2025,Teddy Bear,7.48,Female,24,love note,5,37.4,Thika Road Mall
+846,1/31/2025,Greeting Card,5.74,Male,47,affordable gift,3,17.22,Kisumu Downtown
+847,1/31/2025,Teddy Bear,10.4,Male,58,affordable gift,4,41.6,Kisumu Downtown
+848,1/21/2025,Keychain,6.91,Female,33,chocolate,4,27.64,Thika Road Mall
+849,2/8/2025,Flowers,5.7,Male,37,cupcake,4,22.8,Machakos Junction
+850,1/15/2025,Greeting Card,11.21,Male,47,small gift,5,56.05,Nairobi CBD
+851,1/30/2025,Chocolate,14.75,Male,29,chocolate,3,44.25,Mombasa Docks
+852,1/8/2025,Keychain,1.17,Female,20,affordable gift,1,1.17,Mombasa Docks
+853,1/22/2025,Cupcake,2.29,Male,49,chocolate,5,11.45,Nairobi CBD
+854,1/18/2025,Cupcake,12.22,Female,51,chocolate,1,12.22,Mombasa Docks
+855,1/26/2025,Teddy Bear,3.63,Female,23,affordable gift,1,3.63,Nairobi CBD
+856,1/27/2025,Balloons,1.08,Male,40,simple gift,1,1.08,Nakuru Center
+857,1/29/2025,Chocolate,6.58,Male,23,gift ideas,1,6.58,Kisumu Downtown
+858,2/12/2025,Handmade Craft,1.7,Female,59,gift ideas,3,5.1,Thika Road Mall
+859,1/26/2025,Mug,14.52,Male,48,love note,2,29.04,Eldoret Bus Park
+860,2/7/2025,Mug,1.23,Female,46,love note,3,3.69,Nakuru Center
+861,1/6/2025,Cupcake,11.4,Female,32,greeting card,5,57,Mombasa Docks
+862,1/23/2025,Keychain,2.16,Female,28,love note,5,10.8,Kisumu Downtown
+863,2/11/2025,Flowers,9.46,Male,56,greeting card,2,18.92,Mombasa Docks
+864,1/25/2025,Handmade Craft,6.43,Female,40,chocolate,1,6.43,Kisumu Downtown
+865,1/21/2025,Mug,3.05,Male,35,flowers,3,9.15,Machakos Junction
+866,1/14/2025,Chocolate,5.64,Male,41,simple gift,5,28.2,Mombasa Docks
+867,2/4/2025,Perfume Sample,10.12,Male,54,greeting card,5,50.6,Thika Road Mall
+868,1/3/2025,Perfume Sample,3.83,Male,60,chocolate,4,15.32,Nakuru Center
+869,1/23/2025,Greeting Card,12.69,Female,29,chocolate,1,12.69,Mombasa Docks
+870,1/29/2025,Chocolate,10.74,Male,33,love note,3,32.22,Nairobi CBD
+871,2/8/2025,Teddy Bear,11.44,Male,46,flowers,3,34.32,Kisumu Downtown
+872,2/12/2025,Flowers,5.83,Female,18,affordable gift,1,5.83,Eldoret Bus Park
+873,1/14/2025,Handmade Craft,3.33,Female,18,greeting card,3,9.99,Nairobi CBD
+874,2/11/2025,Handmade Craft,1.22,Male,37,cupcake,3,3.66,Nakuru Center
+875,1/16/2025,Handmade Craft,12.19,Male,48,love note,1,12.19,Machakos Junction
+876,1/13/2025,Keychain,8.53,Female,21,love note,1,8.53,Thika Road Mall
+877,1/8/2025,Perfume Sample,13.38,Male,35,simple gift,2,26.76,Kisumu Downtown
+878,2/6/2025,Chocolate,8.12,Male,25,cupcake,4,32.48,Eldoret Bus Park
+879,1/6/2025,Keychain,8.67,Male,31,balloons,3,26.01,Nairobi CBD
+880,2/7/2025,Flowers,8.05,Male,43,balloons,4,32.2,Naivasha Market
+881,1/27/2025,Teddy Bear,3.85,Female,34,balloons,5,19.25,Naivasha Market
+882,1/15/2025,Flowers,3.4,Male,19,gift ideas,1,3.4,Machakos Junction
+883,2/14/2025,Mug,10.57,Male,49,small gift,1,10.57,Eldoret Bus Park
+884,1/6/2025,Cupcake,1.94,Male,47,small gift,1,1.94,Naivasha Market
+885,1/18/2025,Chocolate,11.95,Female,26,simple gift,1,11.95,Eldoret Bus Park
+886,1/13/2025,Keychain,13.35,Male,18,love note,2,26.7,Eldoret Bus Park
+887,2/2/2025,Handmade Craft,10.87,Male,53,love note,3,32.61,Eldoret Bus Park
+888,1/31/2025,Handmade Craft,12.15,Male,52,affordable gift,1,12.15,Nakuru Center
+889,1/29/2025,Perfume Sample,3.11,Male,39,love note,2,6.22,Nakuru Center
+890,2/9/2025,Mug,3.69,Female,52,flowers,5,18.45,Mombasa Docks
+891,1/24/2025,Keychain,3.51,Male,53,cupcake,1,3.51,Machakos Junction
+892,1/31/2025,Handmade Craft,4.18,Male,20,love note,5,20.9,Machakos Junction
+893,1/14/2025,Perfume Sample,7.34,Female,53,love note,3,22.02,Nairobi CBD
+894,2/5/2025,Balloons,2.56,Female,36,love note,5,12.8,Nairobi CBD
+895,1/10/2025,Mug,8.51,Male,30,chocolate,5,42.55,Mombasa Docks
+896,1/23/2025,Perfume Sample,7.96,Female,49,small gift,3,23.88,Eldoret Bus Park
+897,1/14/2025,Keychain,6.68,Male,33,balloons,3,20.04,Naivasha Market
+898,2/14/2025,Chocolate,5.02,Male,29,balloons,4,20.08,Eldoret Bus Park
+899,1/29/2025,Mug,12.21,Female,39,flowers,5,61.05,Kisumu Downtown
+900,2/11/2025,Flowers,8.67,Male,51,chocolate,3,26.01,Kisumu Downtown
+901,2/9/2025,Perfume Sample,7.29,Male,59,chocolate,5,36.45,Mombasa Docks
+902,2/5/2025,Handmade Craft,3.96,Male,60,chocolate,3,11.88,Machakos Junction
+903,2/7/2025,Keychain,4.58,Female,31,love note,3,13.74,Thika Road Mall
+904,1/15/2025,Teddy Bear,4.12,Male,30,affordable gift,5,20.6,Machakos Junction
+905,1/24/2025,Handmade Craft,2.91,Female,51,gift ideas,2,5.82,Mombasa Docks
+906,1/29/2025,Perfume Sample,10.84,Male,26,gift ideas,3,32.52,Kisumu Downtown
+907,1/26/2025,Handmade Craft,12.67,Male,20,affordable gift,3,38.01,Eldoret Bus Park
+908,1/29/2025,Chocolate,9.15,Female,41,cupcake,4,36.6,Kisumu Downtown
+909,2/8/2025,Mug,12.25,Female,51,cupcake,3,36.75,Kisumu Downtown
+910,1/26/2025,Mug,11.01,Female,50,greeting card,4,44.04,Thika Road Mall
+911,1/18/2025,Teddy Bear,11.62,Male,41,flowers,5,58.1,Naivasha Market
+912,1/30/2025,Greeting Card,4.62,Male,45,flowers,4,18.48,Nakuru Center
+913,1/3/2025,Handmade Craft,7.22,Male,37,small gift,2,14.44,Naivasha Market
+914,2/7/2025,Balloons,2.79,Male,21,simple gift,1,2.79,Naivasha Market
+915,1/27/2025,Flowers,13.79,Male,36,love note,5,68.95,Machakos Junction
+916,1/3/2025,Cupcake,4.9,Female,42,small gift,2,9.8,Nairobi CBD
+917,2/12/2025,Handmade Craft,4.13,Female,55,love note,1,4.13,Nairobi CBD
+918,2/5/2025,Perfume Sample,2.53,Male,23,flowers,5,12.65,Thika Road Mall
+919,1/2/2025,Keychain,12.31,Male,30,gift ideas,4,49.24,Machakos Junction
+920,2/1/2025,Teddy Bear,10.88,Male,18,flowers,5,54.4,Kisumu Downtown
+921,1/4/2025,Chocolate,11.47,Male,25,small gift,2,22.94,Machakos Junction
+922,1/3/2025,Flowers,4.52,Male,57,affordable gift,1,4.52,Machakos Junction
+923,1/17/2025,Flowers,7.39,Male,29,love note,4,29.56,Eldoret Bus Park
+924,1/13/2025,Greeting Card,8.4,Male,41,gift ideas,5,42,Mombasa Docks
+925,2/6/2025,Mug,12.77,Male,51,cupcake,1,12.77,Kisumu Downtown
+926,2/2/2025,Chocolate,9.73,Female,56,simple gift,1,9.73,Naivasha Market
+927,2/12/2025,Keychain,8.64,Female,32,greeting card,2,17.28,Kisumu Downtown
+928,1/18/2025,Keychain,1.11,Female,31,balloons,3,3.33,Machakos Junction
+929,1/12/2025,Flowers,5.14,Male,56,balloons,3,15.42,Mombasa Docks
+930,1/2/2025,Perfume Sample,11.97,Female,29,balloons,2,23.94,Machakos Junction
+931,2/4/2025,Balloons,9.18,Male,50,small gift,4,36.72,Nairobi CBD
+932,1/5/2025,Cupcake,3.77,Female,46,balloons,2,7.54,Eldoret Bus Park
+933,1/14/2025,Cupcake,7.42,Female,32,affordable gift,5,37.1,Machakos Junction
+934,2/9/2025,Mug,5.42,Female,19,chocolate,1,5.42,Naivasha Market
+935,1/31/2025,Flowers,14.18,Female,36,chocolate,3,42.54,Nairobi CBD
+936,1/23/2025,Greeting Card,4.75,Male,28,cupcake,1,4.75,Kisumu Downtown
+937,2/6/2025,Flowers,9.58,Male,44,simple gift,3,28.74,Thika Road Mall
+938,1/25/2025,Handmade Craft,1.19,Female,57,cupcake,5,5.95,Machakos Junction
+939,2/12/2025,Teddy Bear,1.93,Female,28,gift ideas,3,5.79,Kisumu Downtown
+940,1/7/2025,Handmade Craft,3.65,Female,18,balloons,2,7.3,Mombasa Docks
+941,2/12/2025,Greeting Card,9.69,Female,24,gift ideas,1,9.69,Nairobi CBD
+942,1/17/2025,Balloons,13.98,Male,49,simple gift,4,55.92,Nakuru Center
+943,2/8/2025,Flowers,2.06,Female,46,chocolate,1,2.06,Nakuru Center
+944,1/17/2025,Balloons,7.81,Female,38,cupcake,2,15.62,Nairobi CBD
+945,1/4/2025,Cupcake,2.38,Female,51,balloons,3,7.14,Mombasa Docks
+946,1/20/2025,Teddy Bear,12.56,Female,31,small gift,5,62.8,Eldoret Bus Park
+947,1/24/2025,Flowers,10.27,Female,48,love note,3,30.81,Nakuru Center
+948,1/16/2025,Balloons,12.69,Male,45,flowers,1,12.69,Naivasha Market
+949,2/11/2025,Cupcake,12.69,Female,28,simple gift,3,38.07,Kisumu Downtown
+950,1/31/2025,Handmade Craft,8.51,Female,40,chocolate,2,17.02,Naivasha Market
+951,1/9/2025,Mug,12.11,Male,45,chocolate,3,36.33,Thika Road Mall
+952,1/23/2025,Greeting Card,7.01,Male,37,small gift,5,35.05,Mombasa Docks
+953,2/14/2025,Chocolate,2.15,Female,19,small gift,1,2.15,Machakos Junction
+954,1/26/2025,Perfume Sample,10.27,Male,56,small gift,2,20.54,Thika Road Mall
+955,2/4/2025,Chocolate,3.66,Female,20,flowers,2,7.32,Naivasha Market
+956,1/26/2025,Flowers,9.97,Male,59,small gift,5,49.85,Eldoret Bus Park
+957,1/22/2025,Greeting Card,9.74,Female,21,greeting card,3,29.22,Mombasa Docks
+958,2/3/2025,Handmade Craft,11.58,Female,56,greeting card,5,57.9,Thika Road Mall
+959,2/5/2025,Balloons,5.26,Male,49,gift ideas,5,26.3,Nakuru Center
+960,1/27/2025,Flowers,12.78,Male,38,flowers,4,51.12,Machakos Junction
+961,1/13/2025,Greeting Card,9.45,Male,60,chocolate,1,9.45,Nairobi CBD
+962,2/10/2025,Flowers,3.76,Female,24,gift ideas,2,7.52,Kisumu Downtown
+963,1/22/2025,Teddy Bear,6.2,Female,21,cupcake,5,31,Eldoret Bus Park
+964,1/2/2025,Flowers,3.63,Male,53,simple gift,3,10.89,Mombasa Docks
+965,1/14/2025,Chocolate,1.34,Male,38,greeting card,2,2.68,Eldoret Bus Park
+966,1/15/2025,Mug,6.68,Male,50,small gift,5,33.4,Mombasa Docks
+967,2/14/2025,Keychain,9.66,Female,51,flowers,1,9.66,Nairobi CBD
+968,1/9/2025,Teddy Bear,11.73,Male,36,affordable gift,5,58.65,Eldoret Bus Park
+969,2/6/2025,Keychain,11.78,Female,40,gift ideas,3,35.34,Thika Road Mall
+970,1/5/2025,Teddy Bear,11.21,Male,20,greeting card,4,44.84,Mombasa Docks
+971,2/13/2025,Keychain,12.5,Female,41,small gift,5,62.5,Machakos Junction
+972,2/7/2025,Chocolate,5.64,Female,47,gift ideas,4,22.56,Thika Road Mall
+973,1/18/2025,Balloons,14.34,Female,28,affordable gift,4,57.36,Thika Road Mall
+974,2/4/2025,Chocolate,2.12,Female,42,chocolate,5,10.6,Naivasha Market
+975,2/6/2025,Greeting Card,4.8,Female,54,small gift,4,19.2,Eldoret Bus Park
+976,2/9/2025,Mug,5.82,Male,29,chocolate,2,11.64,Thika Road Mall
+977,1/11/2025,Balloons,3.3,Male,28,love note,4,13.2,Eldoret Bus Park
+978,1/12/2025,Balloons,1.53,Male,35,small gift,4,6.12,Nakuru Center
+979,1/3/2025,Teddy Bear,13.55,Male,43,cupcake,1,13.55,Eldoret Bus Park
+980,1/23/2025,Perfume Sample,12.24,Female,42,cupcake,4,48.96,Eldoret Bus Park
+981,1/2/2025,Chocolate,4.65,Female,49,chocolate,3,13.95,Machakos Junction
+982,1/3/2025,Handmade Craft,3.34,Male,53,gift ideas,1,3.34,Nairobi CBD
+983,1/4/2025,Cupcake,14.9,Female,36,small gift,4,59.6,Eldoret Bus Park
+984,1/21/2025,Mug,2.51,Male,56,simple gift,1,2.51,Machakos Junction
+985,1/11/2025,Keychain,9.85,Male,52,simple gift,3,29.55,Nakuru Center
+986,2/14/2025,Perfume Sample,11.72,Male,19,love note,2,23.44,Naivasha Market
+987,1/3/2025,Keychain,11.35,Female,36,chocolate,3,34.05,Thika Road Mall
+988,1/22/2025,Greeting Card,9.59,Male,31,affordable gift,1,9.59,Kisumu Downtown
+989,2/14/2025,Mug,1.57,Female,52,love note,4,6.28,Mombasa Docks
+990,1/6/2025,Greeting Card,5.8,Male,48,cupcake,3,17.4,Machakos Junction
+991,1/21/2025,Greeting Card,5.29,Female,27,greeting card,4,21.16,Machakos Junction
+992,1/17/2025,Balloons,13.02,Female,41,small gift,2,26.04,Nairobi CBD
+993,1/2/2025,Greeting Card,13.92,Male,45,small gift,4,55.68,Kisumu Downtown
+994,1/18/2025,Greeting Card,4.71,Male,47,flowers,5,23.55,Kisumu Downtown
+995,1/18/2025,Greeting Card,10.38,Male,46,small gift,2,20.76,Eldoret Bus Park
+996,1/8/2025,Flowers,11.51,Female,35,small gift,2,23.02,Thika Road Mall
+997,2/13/2025,Flowers,6.52,Female,27,small gift,1,6.52,Thika Road Mall
+998,1/23/2025,Teddy Bear,3,Male,46,affordable gift,3,9,Nakuru Center
+999,1/29/2025,Cupcake,4.13,Female,25,love note,2,8.26,Machakos Junction
+1000,1/14/2025,Handmade Craft,8.78,Male,19,simple gift,1,8.78,Mombasa Docks
